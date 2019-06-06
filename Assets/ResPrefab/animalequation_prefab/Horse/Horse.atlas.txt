@@ -1,0 +1,111 @@
+
+Horse.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 193
+  size: 279, 317
+  orig: 279, 317
+  offset: 0, 0
+  index: -1
+Eye_1
+  rotate: false
+  xy: 474, 302
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Eye_2
+  rotate: false
+  xy: 2, 8
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+Eye_3
+  rotate: false
+  xy: 351, 39
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: false
+  xy: 449, 253
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+L_Ear
+  rotate: true
+  xy: 168, 2
+  size: 30, 68
+  orig: 30, 68
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: true
+  xy: 283, 183
+  size: 37, 152
+  orig: 37, 152
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 168, 34
+  size: 85, 157
+  orig: 85, 157
+  offset: 0, 0
+  index: -1
+R_Ear
+  rotate: false
+  xy: 449, 279
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 449, 340
+  size: 50, 170
+  orig: 50, 170
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 351, 58
+  size: 70, 123
+  orig: 70, 123
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 255, 37
+  size: 94, 144
+  orig: 94, 144
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 283, 367
+  size: 164, 143
+  orig: 164, 143
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: false
+  xy: 2, 33
+  size: 164, 158
+  orig: 164, 158
+  offset: 0, 0
+  index: -1
+head_3
+  rotate: false
+  xy: 283, 222
+  size: 164, 143
+  orig: 164, 143
+  offset: 0, 0
+  index: -1

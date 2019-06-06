@@ -1,0 +1,104 @@
+
+Person_2.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hand
+  rotate: true
+  xy: 648, 80
+  size: 43, 72
+  orig: 43, 72
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 722, 86
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+L_pigtail
+  rotate: true
+  xy: 126, 5
+  size: 43, 75
+  orig: 43, 75
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 126, 50
+  size: 142, 73
+  orig: 142, 73
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 787, 85
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 270, 30
+  size: 93, 122
+  orig: 93, 122
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 394, 36
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 498, 76
+  size: 74, 47
+  orig: 74, 47
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 574, 78
+  size: 72, 45
+  orig: 72, 45
+  offset: 0, 0
+  index: -1
+handi
+  rotate: false
+  xy: 270, 4
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 122, 121
+  orig: 122, 121
+  offset: 0, 0
+  index: -1
+kangkang
+  rotate: true
+  xy: 394, 62
+  size: 61, 102
+  orig: 61, 102
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 498, 63
+  size: 37, 11
+  orig: 37, 11
+  offset: 0, 0
+  index: -1
+r_pigtail
+  rotate: true
+  xy: 203, 4
+  size: 44, 65
+  orig: 44, 65
+  offset: 0, 0
+  index: -1

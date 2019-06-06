@@ -1,0 +1,90 @@
+
+Person_5.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hand
+  rotate: true
+  xy: 708, 96
+  size: 30, 77
+  orig: 30, 77
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 564, 63
+  size: 70, 63
+  orig: 70, 63
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 636, 79
+  size: 47, 70
+  orig: 47, 70
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 403, 81
+  size: 45, 84
+  orig: 45, 84
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 148, 27
+  size: 72, 99
+  orig: 72, 99
+  offset: 0, 0
+  index: -1
+bucket
+  rotate: true
+  xy: 222, 2
+  size: 61, 85
+  orig: 61, 85
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 489, 73
+  size: 73, 53
+  orig: 73, 53
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 309, 2
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 326, 69
+  size: 75, 57
+  orig: 75, 57
+  offset: 0, 0
+  index: -1
+handi
+  rotate: true
+  xy: 148, 9
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 3
+  size: 144, 123
+  orig: 144, 123
+  offset: 0, 0
+  index: -1
+kangkang
+  rotate: true
+  xy: 222, 65
+  size: 61, 102
+  orig: 61, 102
+  offset: 0, 0
+  index: -1

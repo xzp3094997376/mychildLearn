@@ -1,0 +1,174 @@
+
+Kbaby.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 142
+  size: 416, 368
+  orig: 416, 368
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: true
+  xy: 161, 2
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+Ear
+  rotate: false
+  xy: 420, 374
+  size: 139, 136
+  orig: 139, 136
+  offset: 0, 0
+  index: -1
+Ear_white
+  rotate: false
+  xy: 350, 56
+  size: 87, 84
+  orig: 87, 84
+  offset: 0, 0
+  index: -1
+Eye_a
+  rotate: true
+  xy: 525, 156
+  size: 84, 21
+  orig: 84, 21
+  offset: 0, 0
+  index: -1
+Eye_b
+  rotate: false
+  xy: 645, 362
+  size: 80, 43
+  orig: 80, 43
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: false
+  xy: 555, 287
+  size: 70, 69
+  orig: 70, 69
+  offset: 0, 0
+  index: -1
+Flush
+  rotate: false
+  xy: 64, 3
+  size: 95, 36
+  orig: 95, 36
+  offset: 0, 0
+  index: -1
+Fundus_1
+  rotate: false
+  xy: 561, 407
+  size: 96, 103
+  orig: 96, 103
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 659, 454
+  size: 143, 56
+  orig: 143, 56
+  offset: 0, 0
+  index: -1
+Jaw
+  rotate: false
+  xy: 2, 41
+  size: 193, 99
+  orig: 193, 99
+  offset: 0, 0
+  index: -1
+K
+  rotate: true
+  xy: 555, 228
+  size: 57, 71
+  orig: 57, 71
+  offset: 0, 0
+  index: -1
+Mouth_1
+  rotate: false
+  xy: 659, 407
+  size: 83, 45
+  orig: 83, 45
+  offset: 0, 0
+  index: -1
+Mouth_2
+  rotate: false
+  xy: 804, 453
+  size: 85, 57
+  orig: 85, 57
+  offset: 0, 0
+  index: -1
+Mouth_3
+  rotate: true
+  xy: 439, 53
+  size: 89, 71
+  orig: 89, 71
+  offset: 0, 0
+  index: -1
+Mouth_4
+  rotate: false
+  xy: 980, 436
+  size: 42, 74
+  orig: 42, 74
+  offset: 0, 0
+  index: -1
+Mouth_5
+  rotate: false
+  xy: 197, 63
+  size: 151, 77
+  orig: 151, 77
+  offset: 0, 0
+  index: -1
+Mouth_a
+  rotate: false
+  xy: 891, 464
+  size: 87, 46
+  orig: 87, 46
+  offset: 0, 0
+  index: -1
+Mouth_b
+  rotate: true
+  xy: 197, 20
+  size: 41, 66
+  orig: 41, 66
+  offset: 0, 0
+  index: -1
+Mouth_c
+  rotate: false
+  xy: 548, 171
+  size: 75, 55
+  orig: 75, 55
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 2, 2
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
+White
+  rotate: true
+  xy: 420, 144
+  size: 96, 103
+  orig: 96, 103
+  offset: 0, 0
+  index: -1
+eyelid
+  rotate: false
+  xy: 561, 358
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+sigh
+  rotate: false
+  xy: 420, 242
+  size: 133, 130
+  orig: 133, 130
+  offset: 0, 0
+  index: -1

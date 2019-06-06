@@ -1,0 +1,48 @@
+
+Boy.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 3
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 87, 8
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 30
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: true
+  xy: 50, 2
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: false
+  xy: 96, 75
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 96, 38
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+Duck.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mouth
+  rotate: false
+  xy: 464, 94
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+Mouth_a
+  rotate: true
+  xy: 284, 2
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 18
+  size: 173, 108
+  orig: 173, 108
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 323, 13
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+eye_a
+  rotate: false
+  xy: 2, 2
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+eyeball
+  rotate: false
+  xy: 464, 65
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 177, 21
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 376, 8
+  size: 59, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1
+wing
+  rotate: false
+  xy: 376, 69
+  size: 86, 57
+  orig: 86, 57
+  offset: 0, 0
+  index: -1
+wings_a
+  rotate: false
+  xy: 284, 49
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+Flower.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 28
+  size: 235, 225
+  orig: 235, 225
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 78, 2
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: false
+  xy: 239, 240
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Mouth_1
+  rotate: false
+  xy: 2, 4
+  size: 38, 22
+  orig: 38, 22
+  offset: 0, 0
+  index: -1
+Mouth_2
+  rotate: false
+  xy: 42, 5
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1

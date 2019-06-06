@@ -1,0 +1,90 @@
+
+duck.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mouth_1
+  rotate: false
+  xy: 293, 95
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+Mouth_2
+  rotate: false
+  xy: 338, 99
+  size: 43, 22
+  orig: 43, 22
+  offset: 0, 0
+  index: -1
+Mouth_3
+  rotate: false
+  xy: 293, 67
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 55, 4
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+bai
+  rotate: false
+  xy: 2, 2
+  size: 51, 22
+  orig: 51, 22
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 94, 41
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 94, 30
+  size: 47, 9
+  orig: 47, 9
+  offset: 0, 0
+  index: -1
+hand1_2
+  rotate: false
+  xy: 253, 56
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+hand2_1
+  rotate: false
+  xy: 196, 52
+  size: 55, 69
+  orig: 55, 69
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 26
+  size: 90, 95
+  orig: 90, 95
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 383, 105
+  size: 43, 16
+  orig: 43, 16
+  offset: 0, 0
+  index: -1
+wei
+  rotate: true
+  xy: 428, 103
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1

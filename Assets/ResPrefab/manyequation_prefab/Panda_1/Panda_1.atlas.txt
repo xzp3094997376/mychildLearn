@@ -1,0 +1,90 @@
+
+Panda_1.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hand_a
+  rotate: false
+  xy: 642, 80
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+L_hand_b
+  rotate: false
+  xy: 690, 91
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 229, 2
+  size: 61, 50
+  orig: 61, 50
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 281, 6
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 577, 70
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 132, 44
+  size: 95, 82
+  orig: 95, 82
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 496, 77
+  size: 79, 49
+  orig: 79, 49
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 333, 68
+  size: 79, 58
+  orig: 79, 58
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 414, 72
+  size: 80, 54
+  orig: 80, 54
+  offset: 0, 0
+  index: -1
+handi
+  rotate: true
+  xy: 2, 8
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 26
+  size: 128, 100
+  orig: 128, 100
+  offset: 0, 0
+  index: -1
+kangkang
+  rotate: true
+  xy: 229, 65
+  size: 61, 102
+  orig: 61, 102
+  offset: 0, 0
+  index: -1

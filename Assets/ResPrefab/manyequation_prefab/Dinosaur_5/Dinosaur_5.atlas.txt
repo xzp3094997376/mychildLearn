@@ -1,0 +1,90 @@
+
+Dinosaur_5.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hand
+  rotate: true
+  xy: 264, 25
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 379, 33
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 215, 23
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 428, 34
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 20
+  size: 211, 100
+  orig: 211, 100
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 476, 46
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+eyeball
+  rotate: false
+  xy: 499, 108
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+handi
+  rotate: true
+  xy: 2, 2
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 379, 67
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+head_a
+  rotate: false
+  xy: 319, 62
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+head_b
+  rotate: false
+  xy: 439, 67
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+kangkang
+  rotate: true
+  xy: 215, 59
+  size: 61, 102
+  orig: 61, 102
+  offset: 0, 0
+  index: -1

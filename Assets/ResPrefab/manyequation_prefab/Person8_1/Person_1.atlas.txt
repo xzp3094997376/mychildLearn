@@ -1,0 +1,83 @@
+
+Person_1.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hand
+  rotate: false
+  xy: 348, 153
+  size: 129, 100
+  orig: 129, 100
+  offset: 0, 0
+  index: -1
+R_hand_a
+  rotate: false
+  xy: 919, 211
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+R_hand_b
+  rotate: false
+  xy: 206, 73
+  size: 105, 41
+  orig: 105, 41
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 2, 2
+  size: 59, 139
+  orig: 59, 139
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 206, 116
+  size: 140, 137
+  orig: 140, 137
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 706, 176
+  size: 107, 77
+  orig: 107, 77
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 479, 168
+  size: 105, 85
+  orig: 105, 85
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 586, 181
+  size: 118, 72
+  orig: 118, 72
+  offset: 0, 0
+  index: -1
+handi
+  rotate: false
+  xy: 348, 127
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 63
+  size: 202, 190
+  orig: 202, 190
+  offset: 0, 0
+  index: -1
+kangkang
+  rotate: true
+  xy: 815, 192
+  size: 61, 102
+  orig: 61, 102
+  offset: 0, 0
+  index: -1

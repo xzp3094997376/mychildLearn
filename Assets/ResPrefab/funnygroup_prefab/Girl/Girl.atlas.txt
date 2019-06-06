@@ -1,0 +1,41 @@
+
+Girl.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 2
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 58, 23
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 78, 88
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 45
+  size: 74, 77
+  orig: 74, 77
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: false
+  xy: 78, 44
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+1.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 364, 69
+  size: 57, 69
+  orig: 57, 69
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 145, 2
+  size: 61, 15
+  orig: 61, 15
+  offset: 0, 0
+  index: -1
+Cap
+  rotate: false
+  xy: 145, 19
+  size: 81, 60
+  orig: 81, 60
+  offset: 0, 0
+  index: -1
+Eyeball_1
+  rotate: false
+  xy: 412, 45
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Eyeball_2
+  rotate: false
+  xy: 412, 45
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 8
+  size: 141, 118
+  orig: 141, 118
+  offset: 0, 0
+  index: -1
+L_ear
+  rotate: false
+  xy: 435, 79
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 363, 35
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 320, 47
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 208, 2
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: false
+  xy: 228, 32
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 482, 76
+  size: 50, 23
+  orig: 50, 23
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 274, 47
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 145, 81
+  size: 119, 45
+  orig: 119, 45
+  offset: 0, 0
+  index: -1
+White
+  rotate: false
+  xy: 266, 87
+  size: 96, 39
+  orig: 96, 39
+  offset: 0, 0
+  index: -1

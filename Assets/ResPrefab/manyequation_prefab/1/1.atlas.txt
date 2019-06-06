@@ -1,0 +1,153 @@
+
+1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 166, 63
+  size: 66, 78
+  orig: 66, 78
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: true
+  xy: 261, 130
+  size: 70, 17
+  orig: 70, 17
+  offset: 0, 0
+  index: -1
+Cap
+  rotate: false
+  xy: 166, 131
+  size: 93, 69
+  orig: 93, 69
+  offset: 0, 0
+  index: -1
+Eyeball_1
+  rotate: true
+  xy: 161, 2
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Eyeball_2
+  rotate: true
+  xy: 161, 2
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 119
+  size: 162, 135
+  orig: 162, 135
+  offset: 0, 0
+  index: -1
+L_ear
+  rotate: false
+  xy: 280, 153
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: true
+  xy: 437, 146
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 116, 17
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 280, 134
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1
+Mouth_a
+  rotate: false
+  xy: 161, 29
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+Mouth_b
+  rotate: false
+  xy: 475, 169
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: false
+  xy: 333, 153
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 475, 197
+  size: 57, 26
+  orig: 57, 26
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 385, 157
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 2, 66
+  size: 136, 51
+  orig: 136, 51
+  offset: 0, 0
+  index: -1
+White
+  rotate: false
+  xy: 279, 209
+  size: 110, 45
+  orig: 110, 45
+  offset: 0, 0
+  index: -1
+eye_a
+  rotate: false
+  xy: 2, 16
+  size: 112, 48
+  orig: 112, 48
+  offset: 0, 0
+  index: -1
+eye_b
+  rotate: false
+  xy: 166, 202
+  size: 111, 52
+  orig: 111, 52
+  offset: 0, 0
+  index: -1
+handi
+  rotate: false
+  xy: 140, 95
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+kangkang
+  rotate: true
+  xy: 391, 202
+  size: 52, 82
+  orig: 52, 82
+  offset: 0, 0
+  index: -1

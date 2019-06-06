@@ -1,0 +1,62 @@
+
+Puffer.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 2
+  size: 504, 492
+  orig: 504, 492
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: false
+  xy: 851, 436
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Fin_1
+  rotate: true
+  xy: 508, 14
+  size: 76, 106
+  orig: 76, 106
+  offset: 0, 0
+  index: -1
+Fin_2
+  rotate: false
+  xy: 670, 289
+  size: 76, 106
+  orig: 76, 106
+  offset: 0, 0
+  index: -1
+Fishtail_1
+  rotate: false
+  xy: 508, 256
+  size: 160, 238
+  orig: 160, 238
+  offset: 0, 0
+  index: -1
+Fishtail_2
+  rotate: false
+  xy: 508, 92
+  size: 146, 162
+  orig: 146, 162
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 769, 414
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+White
+  rotate: false
+  xy: 670, 397
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1

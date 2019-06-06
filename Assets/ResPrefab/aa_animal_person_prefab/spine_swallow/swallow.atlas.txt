@@ -1,0 +1,97 @@
+
+swallow.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_leg
+  rotate: false
+  xy: 142, 47
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+Mouth_1
+  rotate: false
+  xy: 236, 112
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Mouth_2
+  rotate: false
+  xy: 132, 2
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+Mouth_3
+  rotate: false
+  xy: 157, 53
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 132, 17
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+bai
+  rotate: false
+  xy: 142, 70
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 10
+  size: 67, 116
+  orig: 67, 116
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 208, 96
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+hand1_1
+  rotate: true
+  xy: 71, 11
+  size: 25, 59
+  orig: 25, 59
+  offset: 0, 0
+  index: -1
+hand1_2
+  rotate: true
+  xy: 182, 107
+  size: 19, 52
+  orig: 19, 52
+  offset: 0, 0
+  index: -1
+hand2_2
+  rotate: false
+  xy: 71, 38
+  size: 69, 88
+  orig: 69, 88
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 182, 93
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+wei
+  rotate: false
+  xy: 142, 88
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

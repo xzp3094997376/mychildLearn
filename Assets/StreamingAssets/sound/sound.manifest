@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 576510661
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: aa_good_sound
+      Dependencies: {}

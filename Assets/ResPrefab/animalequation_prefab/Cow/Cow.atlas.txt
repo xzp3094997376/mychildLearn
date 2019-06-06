@@ -1,0 +1,132 @@
+
+Cow.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 9
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+Car
+  rotate: false
+  xy: 2, 150
+  size: 301, 104
+  orig: 301, 104
+  offset: 0, 0
+  index: -1
+Ear_1
+  rotate: false
+  xy: 182, 7
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Ear_2
+  rotate: false
+  xy: 143, 7
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+Eye_a
+  rotate: false
+  xy: 326, 133
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Eye_b
+  rotate: false
+  xy: 273, 7
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+Eye_c
+  rotate: false
+  xy: 326, 111
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: false
+  xy: 254, 2
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 143, 34
+  size: 112, 114
+  orig: 112, 114
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 305, 196
+  size: 80, 58
+  orig: 80, 58
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 305, 155
+  size: 39, 63
+  orig: 39, 63
+  offset: 0, 0
+  index: -1
+Mouth_a
+  rotate: false
+  xy: 348, 143
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+Mouth_b
+  rotate: false
+  xy: 217, 10
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+Mouth_c
+  rotate: true
+  xy: 370, 172
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 387, 199
+  size: 76, 55
+  orig: 76, 55
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 465, 194
+  size: 37, 60
+  orig: 37, 60
+  offset: 0, 0
+  index: -1
+Wheel
+  rotate: false
+  xy: 257, 81
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+Wheel_2
+  rotate: false
+  xy: 257, 20
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1

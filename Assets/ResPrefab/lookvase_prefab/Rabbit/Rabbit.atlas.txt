@@ -1,0 +1,132 @@
+
+Rabbit.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_ear_1
+  rotate: false
+  xy: 508, 45
+  size: 79, 81
+  orig: 79, 81
+  offset: 0, 0
+  index: -1
+L_ear_2
+  rotate: true
+  xy: 275, 59
+  size: 67, 130
+  orig: 67, 130
+  offset: 0, 0
+  index: -1
+L_hand1
+  rotate: false
+  xy: 239, 21
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+L_hand2
+  rotate: false
+  xy: 770, 64
+  size: 79, 62
+  orig: 79, 62
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 851, 75
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 296, 35
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+Mouth_a
+  rotate: false
+  xy: 970, 93
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+Mouth_b
+  rotate: false
+  xy: 273, 32
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+R_ear_1
+  rotate: false
+  xy: 589, 72
+  size: 97, 54
+  orig: 97, 54
+  offset: 0, 0
+  index: -1
+R_ear_2
+  rotate: true
+  xy: 137, 62
+  size: 64, 136
+  orig: 64, 136
+  offset: 0, 0
+  index: -1
+R_hand1
+  rotate: false
+  xy: 589, 2
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+R_hand2
+  rotate: false
+  xy: 688, 66
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 914, 75
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 407, 34
+  size: 99, 92
+  orig: 99, 92
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 137, 18
+  size: 100, 42
+  orig: 100, 42
+  offset: 0, 0
+  index: -1
+eye_a
+  rotate: false
+  xy: 589, 46
+  size: 86, 24
+  orig: 86, 24
+  offset: 0, 0
+  index: -1
+eyeball
+  rotate: false
+  xy: 635, 17
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 14
+  size: 133, 112
+  orig: 133, 112
+  offset: 0, 0
+  index: -1

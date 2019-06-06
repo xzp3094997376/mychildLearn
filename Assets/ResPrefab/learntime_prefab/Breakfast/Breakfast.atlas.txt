@@ -1,0 +1,97 @@
+
+Breakfast.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blusher
+  rotate: true
+  xy: 245, 232
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 55
+  size: 175, 195
+  orig: 175, 195
+  offset: 0, 0
+  index: -1
+Bread
+  rotate: true
+  xy: 179, 76
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 245, 207
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+Ear
+  rotate: false
+  xy: 135, 27
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 163, 35
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Hand_a
+  rotate: false
+  xy: 2, 2
+  size: 91, 51
+  orig: 91, 51
+  offset: 0, 0
+  index: -1
+Hand_b
+  rotate: false
+  xy: 179, 148
+  size: 64, 102
+  orig: 64, 102
+  offset: 0, 0
+  index: -1
+Jaw
+  rotate: false
+  xy: 95, 25
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 208, 64
+  size: 3, 10
+  orig: 3, 10
+  offset: 0, 0
+  index: -1
+Mouth_a
+  rotate: false
+  xy: 95, 11
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+Mouth_b
+  rotate: false
+  xy: 179, 61
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: true
+  xy: 245, 216
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1

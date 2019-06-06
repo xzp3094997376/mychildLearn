@@ -1,0 +1,104 @@
+
+roundness.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 395
+  size: 519, 519
+  orig: 519, 519
+  offset: 0, 0
+  index: -1
+brow
+  rotate: false
+  xy: 191, 301
+  size: 93, 39
+  orig: 93, 39
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 523, 773
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+eye_a
+  rotate: false
+  xy: 2, 153
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+eyeball
+  rotate: false
+  xy: 934, 826
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+eyelid
+  rotate: true
+  xy: 2, 2
+  size: 149, 63
+  orig: 149, 63
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 191, 342
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+mouth_a
+  rotate: false
+  xy: 2, 296
+  size: 187, 97
+  orig: 187, 97
+  offset: 0, 0
+  index: -1
+mouth_b
+  rotate: false
+  xy: 523, 441
+  size: 88, 79
+  orig: 88, 79
+  offset: 0, 0
+  index: -1
+mouth_c
+  rotate: false
+  xy: 800, 862
+  size: 132, 52
+  orig: 132, 52
+  offset: 0, 0
+  index: -1
+mouth_d
+  rotate: false
+  xy: 666, 815
+  size: 132, 99
+  orig: 132, 99
+  offset: 0, 0
+  index: -1
+mouth_e
+  rotate: true
+  xy: 523, 625
+  size: 146, 108
+  orig: 146, 108
+  offset: 0, 0
+  index: -1
+sweat
+  rotate: false
+  xy: 145, 184
+  size: 40, 110
+  orig: 40, 110
+  offset: 0, 0
+  index: -1
+tongue
+  rotate: false
+  xy: 523, 522
+  size: 89, 101
+  orig: 89, 101
+  offset: 0, 0
+  index: -1

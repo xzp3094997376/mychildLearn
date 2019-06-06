@@ -1,0 +1,286 @@
+
+Kbaby.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 252
+  size: 291, 258
+  orig: 291, 258
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: true
+  xy: 615, 340
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+Ear
+  rotate: false
+  xy: 682, 418
+  size: 95, 92
+  orig: 95, 92
+  offset: 0, 0
+  index: -1
+Ear_white
+  rotate: false
+  xy: 237, 101
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+Eye_1
+  rotate: false
+  xy: 528, 310
+  size: 59, 15
+  orig: 59, 15
+  offset: 0, 0
+  index: -1
+Eye_2
+  rotate: true
+  xy: 110, 2
+  size: 56, 30
+  orig: 56, 30
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: false
+  xy: 916, 418
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+Flush
+  rotate: false
+  xy: 459, 308
+  size: 67, 25
+  orig: 67, 25
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 779, 471
+  size: 100, 39
+  orig: 100, 39
+  offset: 0, 0
+  index: -1
+Jaw
+  rotate: true
+  xy: 166, 115
+  size: 135, 69
+  orig: 135, 69
+  offset: 0, 0
+  index: -1
+Jia
+  rotate: false
+  xy: 2, 60
+  size: 162, 190
+  orig: 162, 190
+  offset: 0, 0
+  index: -1
+K
+  rotate: true
+  xy: 857, 418
+  size: 48, 57
+  orig: 48, 57
+  offset: 0, 0
+  index: -1
+Mouth_1
+  rotate: false
+  xy: 964, 478
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+Mouth_2
+  rotate: false
+  xy: 458, 266
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+Mouth_3
+  rotate: false
+  xy: 229, 49
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+Mouth_4
+  rotate: false
+  xy: 190, 2
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+Mouth_5
+  rotate: false
+  xy: 2, 4
+  size: 106, 54
+  orig: 106, 54
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: true
+  xy: 300, 5
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+Orbital
+  rotate: false
+  xy: 459, 406
+  size: 221, 104
+  orig: 221, 104
+  offset: 0, 0
+  index: -1
+Screed_1
+  rotate: false
+  xy: 380, 240
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+Screed_10
+  rotate: false
+  xy: 967, 430
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+Screed_11
+  rotate: false
+  xy: 535, 327
+  size: 78, 39
+  orig: 78, 39
+  offset: 0, 0
+  index: -1
+Screed_12
+  rotate: false
+  xy: 682, 390
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+Screed_13
+  rotate: false
+  xy: 881, 468
+  size: 81, 42
+  orig: 81, 42
+  offset: 0, 0
+  index: -1
+Screed_14
+  rotate: false
+  xy: 459, 335
+  size: 74, 69
+  orig: 74, 69
+  offset: 0, 0
+  index: -1
+Screed_15
+  rotate: true
+  xy: 295, 258
+  size: 60, 83
+  orig: 60, 83
+  offset: 0, 0
+  index: -1
+Screed_16
+  rotate: true
+  xy: 535, 368
+  size: 36, 99
+  orig: 36, 99
+  offset: 0, 0
+  index: -1
+Screed_17
+  rotate: true
+  xy: 380, 268
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: -1
+Screed_18
+  rotate: false
+  xy: 237, 158
+  size: 51, 92
+  orig: 51, 92
+  offset: 0, 0
+  index: -1
+Screed_2
+  rotate: true
+  xy: 293, 49
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+Screed_3
+  rotate: false
+  xy: 142, 2
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+Screed_4
+  rotate: false
+  xy: 636, 343
+  size: 35, 61
+  orig: 35, 61
+  offset: 0, 0
+  index: -1
+Screed_5
+  rotate: false
+  xy: 728, 334
+  size: 28, 54
+  orig: 28, 54
+  offset: 0, 0
+  index: -1
+Screed_6
+  rotate: false
+  xy: 967, 394
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+Screed_7
+  rotate: false
+  xy: 673, 335
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+Screed_8
+  rotate: false
+  xy: 221, 11
+  size: 77, 36
+  orig: 77, 36
+  offset: 0, 0
+  index: -1
+Screed_9
+  rotate: false
+  xy: 779, 421
+  size: 76, 48
+  orig: 76, 48
+  offset: 0, 0
+  index: -1
+Thumb
+  rotate: false
+  xy: 425, 242
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+White
+  rotate: true
+  xy: 166, 56
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+You
+  rotate: false
+  xy: 295, 320
+  size: 162, 190
+  orig: 162, 190
+  offset: 0, 0
+  index: -1

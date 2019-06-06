@@ -1,0 +1,83 @@
+
+Swallow.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 236
+  size: 336, 258
+  orig: 336, 258
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 396, 276
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: false
+  xy: 989, 461
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 340, 254
+  size: 54, 74
+  orig: 54, 74
+  offset: 0, 0
+  index: -1
+L_wings2
+  rotate: false
+  xy: 695, 330
+  size: 246, 164
+  orig: 246, 164
+  offset: 0, 0
+  index: -1
+Mouth_a
+  rotate: false
+  xy: 943, 377
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Mouth_b
+  rotate: false
+  xy: 2, 2
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 943, 409
+  size: 44, 85
+  orig: 44, 85
+  offset: 0, 0
+  index: -1
+R_wings1
+  rotate: true
+  xy: 233, 16
+  size: 218, 166
+  orig: 218, 166
+  offset: 0, 0
+  index: -1
+R_wings2
+  rotate: false
+  xy: 340, 330
+  size: 353, 164
+  orig: 353, 164
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 2, 26
+  size: 229, 208
+  orig: 229, 208
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+little.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 34
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 114, 25
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+eye_a
+  rotate: true
+  xy: 84, 39
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+eye_b
+  rotate: true
+  xy: 43, 11
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 84, 25
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+pliers_a
+  rotate: true
+  xy: 47, 33
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+pliers_b
+  rotate: false
+  xy: 2, 2
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1

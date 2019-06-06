@@ -1,0 +1,69 @@
+
+Administrator.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aperture
+  rotate: false
+  xy: 269, 142
+  size: 90, 88
+  orig: 90, 88
+  offset: 0, 0
+  index: -1
+Beam
+  rotate: true
+  xy: 2, 57
+  size: 173, 265
+  orig: 173, 265
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 361, 203
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 269, 108
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: false
+  xy: 303, 135
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 269, 117
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 21
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 2, 2
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 42, 39
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1

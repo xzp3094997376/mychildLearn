@@ -1,0 +1,125 @@
+
+Leopard.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Brow
+  rotate: false
+  xy: 2, 3
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 958, 147
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Eye_b
+  rotate: true
+  xy: 1008, 218
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: false
+  xy: 715, 109
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 339, 74
+  size: 192, 180
+  orig: 192, 180
+  offset: 0, 0
+  index: -1
+Jaw
+  rotate: false
+  xy: 205, 25
+  size: 125, 71
+  orig: 125, 71
+  offset: 0, 0
+  index: -1
+L_Ear
+  rotate: true
+  xy: 394, 23
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: true
+  xy: 2, 21
+  size: 75, 201
+  orig: 75, 201
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 533, 140
+  size: 114, 214
+  orig: 114, 214
+  offset: 0, 0
+  index: -1
+Mouth_1
+  rotate: false
+  xy: 332, 31
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+Mouth_2
+  rotate: false
+  xy: 946, 191
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 332, 2
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+R_Ear
+  rotate: true
+  xy: 449, 23
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 749, 182
+  size: 72, 195
+  orig: 72, 195
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 533, 55
+  size: 83, 180
+  orig: 83, 180
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 749, 146
+  size: 207, 34
+  orig: 207, 34
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 98
+  size: 335, 156
+  orig: 335, 156
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,16 @@
+int，string，string，string，string
+nID，strName，strIcon，strTxt，strSound1
+1，牛，sds，这是XX啊.阿里巴巴1，1
+2，燕子，sds，这是XX啊.阿里巴巴2，1
+3，熊，sds，这是XX啊.阿里巴巴3，1
+4，鸡，sds，这是XX啊.阿里巴巴4，1
+5，羊，sds，这是XX啊.阿里巴巴5，1
+6，老虎，sds，这是XX啊.阿里巴巴6，1
+7，猫头鹰，sds，这是XX啊.阿里巴巴7，1
+8，马，sds，这是XX啊.阿里巴巴8，1
+9，鸽子，sds，这是XX啊.阿里巴巴9，1
+10，鸭子，sds，这是XX啊.阿里巴巴10，1
+11，兔子，sds，这是XX啊.阿里巴巴11，1
+12，豹，sds，这是XX啊.阿里巴巴12，1
+13，鹅，sds，这是XX啊.阿里巴巴13，1
+14，猪，sds，这是XX啊.阿里巴巴14，1

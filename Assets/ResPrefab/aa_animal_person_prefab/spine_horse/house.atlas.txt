@@ -1,0 +1,118 @@
+
+house.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_leg
+  rotate: true
+  xy: 206, 94
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+Mouth_1
+  rotate: true
+  xy: 37, 2
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+Mouth_2
+  rotate: true
+  xy: 501, 110
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+Mouth_3
+  rotate: false
+  xy: 90, 2
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 262, 94
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+bai
+  rotate: false
+  xy: 2, 2
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 20
+  size: 86, 106
+  orig: 86, 106
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 469, 117
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+hand1_1
+  rotate: true
+  xy: 90, 21
+  size: 21, 50
+  orig: 21, 50
+  offset: 0, 0
+  index: -1
+hand1_2
+  rotate: true
+  xy: 420, 95
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+hand2_1
+  rotate: true
+  xy: 318, 89
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+hand2_2
+  rotate: false
+  xy: 165, 78
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 90, 44
+  size: 73, 82
+  orig: 73, 82
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 165, 65
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+mao3
+  rotate: true
+  xy: 206, 77
+  size: 15, 55
+  orig: 15, 55
+  offset: 0, 0
+  index: -1
+wei
+  rotate: true
+  xy: 368, 96
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1

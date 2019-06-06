@@ -1,0 +1,90 @@
+
+4.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 256, 89
+  size: 80, 97
+  orig: 80, 97
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 2, 47
+  size: 95, 17
+  orig: 95, 17
+  offset: 0, 0
+  index: -1
+Eyeball_1
+  rotate: true
+  xy: 99, 31
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+Eyeball_2
+  rotate: false
+  xy: 60, 11
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 83
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 399, 190
+  size: 48, 61
+  orig: 48, 61
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 2, 2
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 338, 90
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 449, 203
+  size: 48, 61
+  orig: 48, 61
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 338, 130
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 2, 66
+  size: 203, 15
+  orig: 203, 15
+  offset: 0, 0
+  index: -1
+White
+  rotate: false
+  xy: 256, 188
+  size: 141, 63
+  orig: 141, 63
+  offset: 0, 0
+  index: -1

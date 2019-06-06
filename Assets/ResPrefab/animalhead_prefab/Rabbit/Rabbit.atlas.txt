@@ -1,0 +1,62 @@
+
+Rabbit.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eye_a
+  rotate: false
+  xy: 355, 108
+  size: 104, 13
+  orig: 104, 13
+  offset: 0, 0
+  index: -1
+Eye_b
+  rotate: false
+  xy: 147, 71
+  size: 116, 50
+  orig: 116, 50
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: false
+  xy: 355, 74
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 3
+  size: 143, 118
+  orig: 143, 118
+  offset: 0, 0
+  index: -1
+L_ear
+  rotate: true
+  xy: 147, 2
+  size: 67, 88
+  orig: 67, 88
+  offset: 0, 0
+  index: -1
+Mouth_B
+  rotate: false
+  xy: 389, 78
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+Mouth_a
+  rotate: false
+  xy: 237, 46
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: true
+  xy: 265, 55
+  size: 66, 88
+  orig: 66, 88
+  offset: 0, 0
+  index: -1

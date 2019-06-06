@@ -1,0 +1,83 @@
+
+Frog_jump.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_a
+  rotate: false
+  xy: 726, 872
+  size: 47, 64
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+L_hand_a
+  rotate: false
+  xy: 2, 2
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+L_leg_a
+  rotate: false
+  xy: 726, 814
+  size: 27, 56
+  orig: 27, 56
+  offset: 0, 0
+  index: -1
+Mask
+  rotate: false
+  xy: 2, 31
+  size: 76, 35
+  orig: 76, 35
+  offset: 0, 0
+  index: -1
+R_hand_a
+  rotate: false
+  xy: 775, 901
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+R_leg_a
+  rotate: false
+  xy: 364, 295
+  size: 28, 61
+  orig: 28, 61
+  offset: 0, 0
+  index: -1
+shui0001
+  rotate: false
+  xy: 2, 648
+  size: 360, 288
+  orig: 360, 288
+  offset: 0, 0
+  index: -1
+shui0002
+  rotate: false
+  xy: 2, 358
+  size: 360, 288
+  orig: 360, 288
+  offset: 0, 0
+  index: -1
+shui0003
+  rotate: false
+  xy: 364, 648
+  size: 360, 288
+  orig: 360, 288
+  offset: 0, 0
+  index: -1
+shui0004
+  rotate: false
+  xy: 2, 68
+  size: 360, 288
+  orig: 360, 288
+  offset: 0, 0
+  index: -1
+shui0005
+  rotate: false
+  xy: 364, 358
+  size: 360, 288
+  orig: 360, 288
+  offset: 0, 0
+  index: -1

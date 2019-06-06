@@ -1,0 +1,55 @@
+
+School.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bag
+  rotate: false
+  xy: 213, 160
+  size: 86, 94
+  orig: 86, 94
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 56
+  size: 141, 198
+  orig: 141, 198
+  offset: 0, 0
+  index: -1
+Ear
+  rotate: false
+  xy: 145, 106
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 145, 132
+  size: 66, 122
+  orig: 66, 122
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: true
+  xy: 301, 184
+  size: 70, 106
+  orig: 70, 106
+  offset: 0, 0
+  index: -1
+Straps_A
+  rotate: false
+  xy: 2, 2
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+Straps_B
+  rotate: false
+  xy: 2, 33
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1

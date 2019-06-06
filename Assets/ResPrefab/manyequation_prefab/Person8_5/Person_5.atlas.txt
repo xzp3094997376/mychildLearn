@@ -1,0 +1,97 @@
+
+Person_5.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hand
+  rotate: false
+  xy: 2, 7
+  size: 107, 67
+  orig: 107, 67
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 926, 182
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 215, 75
+  size: 58, 110
+  orig: 58, 110
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 210, 30
+  size: 43, 78
+  orig: 43, 78
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 619, 138
+  size: 99, 110
+  orig: 99, 110
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 720, 167
+  size: 106, 81
+  orig: 106, 81
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 828, 160
+  size: 96, 88
+  orig: 96, 88
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 111, 2
+  size: 97, 72
+  orig: 97, 72
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 215, 135
+  size: 235, 113
+  orig: 235, 113
+  offset: 0, 0
+  index: -1
+handi
+  rotate: true
+  xy: 619, 120
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 76
+  size: 211, 172
+  orig: 211, 172
+  offset: 0, 0
+  index: -1
+kangkang
+  rotate: true
+  xy: 327, 72
+  size: 61, 102
+  orig: 61, 102
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 452, 115
+  size: 165, 133
+  orig: 165, 133
+  offset: 0, 0
+  index: -1

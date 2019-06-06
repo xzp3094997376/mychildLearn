@@ -1,0 +1,111 @@
+
+Person_1.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hand_a
+  rotate: true
+  xy: 951, 97
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+L_hand_b
+  rotate: true
+  xy: 909, 96
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 839, 87
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 792, 72
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 874, 87
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 651, 66
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 721, 67
+  size: 69, 59
+  orig: 69, 59
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 371, 2
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+face_2
+  rotate: false
+  xy: 299, 2
+  size: 70, 55
+  orig: 70, 55
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 299, 59
+  size: 147, 67
+  orig: 147, 67
+  offset: 0, 0
+  index: -1
+handi
+  rotate: true
+  xy: 2, 6
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 167, 10
+  size: 130, 116
+  orig: 130, 116
+  offset: 0, 0
+  index: -1
+kangkang
+  rotate: true
+  xy: 448, 65
+  size: 61, 102
+  orig: 61, 102
+  offset: 0, 0
+  index: -1
+shovel
+  rotate: false
+  xy: 2, 24
+  size: 163, 102
+  orig: 163, 102
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 552, 60
+  size: 97, 66
+  orig: 97, 66
+  offset: 0, 0
+  index: -1

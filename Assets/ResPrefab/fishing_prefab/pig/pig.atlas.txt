@@ -1,0 +1,97 @@
+
+pig.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 94, 29
+  size: 85, 79
+  orig: 85, 79
+  offset: 0, 0
+  index: -1
+Eye_1
+  rotate: true
+  xy: 193, 152
+  size: 62, 26
+  orig: 62, 26
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 2, 110
+  size: 189, 144
+  orig: 189, 144
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 193, 108
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+Mouth_1
+  rotate: false
+  xy: 221, 157
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+Mouth_3
+  rotate: true
+  xy: 223, 125
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 193, 216
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 221, 171
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+ear1
+  rotate: true
+  xy: 181, 30
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+ear2
+  rotate: false
+  xy: 181, 67
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+eyeball
+  rotate: false
+  xy: 94, 8
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 20
+  size: 90, 88
+  orig: 90, 88
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 146, 2
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1

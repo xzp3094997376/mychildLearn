@@ -1,0 +1,104 @@
+
+Monster_1.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hand
+  rotate: false
+  xy: 112, 31
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 115, 47
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+Z
+  rotate: false
+  xy: 201, 51
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+blusher
+  rotate: true
+  xy: 170, 50
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 9
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 58, 38
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+eye_a
+  rotate: false
+  xy: 133, 52
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+eye_b
+  rotate: false
+  xy: 152, 51
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+eyeball
+  rotate: false
+  xy: 186, 49
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 83, 29
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+mouth_a
+  rotate: false
+  xy: 83, 47
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+mouth_b
+  rotate: true
+  xy: 83, 2
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+orbit
+  rotate: false
+  xy: 58, 12
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+saliva
+  rotate: false
+  xy: 102, 17
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1

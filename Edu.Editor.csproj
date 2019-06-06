@@ -1,0 +1,456 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{91190D2A-F2CF-A660-5239-9B25312DBE03}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Unity Full v3.5</TargetFrameworkProfile>
+    <CompilerResponseFile></CompilerResponseFile>
+    <UnityProjectGenerator>VSTU</UnityProjectGenerator>
+    <UnityProjectType>Editor:5</UnityProjectType>
+    <UnityBuildTarget>Android:13</UnityBuildTarget>
+    <UnityVersion>5.3.4f1</UnityVersion>
+    <RootNamespace></RootNamespace>
+    <LangVersion>4</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Debug\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Debug\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_3_4;UNITY_5_3;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_SUBSTANCE;UNITY_ANDROID_API;ENABLE_TEXTUREID_MAP;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_LOG_MIXED_STACKTRACE;ENABLE_UNITYWEBREQUEST;PLATFORM_SUPPORTS_ADS_ID;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE</DefineConstants>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Release\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Release\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>TRACE;UNITY_5_3_OR_NEWER;UNITY_5_3_4;UNITY_5_3;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_SUBSTANCE;UNITY_ANDROID_API;ENABLE_TEXTUREID_MAP;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_LOG_MIXED_STACKTRACE;ENABLE_UNITYWEBREQUEST;PLATFORM_SUPPORTS_ADS_ID;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE</DefineConstants>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="Boo.Lang" />
+    <Reference Include="UnityScript.Lang" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>F:/Unity5.3.4/Uniy/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>F:/Unity5.3.4/Uniy/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Advertisements">
+      <HintPath>F:/Unity5.3.4/Uniy/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>F:/Unity5.3.4/Uniy/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.EditorTestsRunner">
+      <HintPath>F:/Unity5.3.4/Uniy/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>F:/Unity5.3.4/Uniy/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+      <HintPath>F:/Unity5.3.4/Uniy/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>F:/Unity5.3.4/Uniy/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Networking">
+      <HintPath>F:/Unity5.3.4/Uniy/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.TreeEditor">
+      <HintPath>F:/Unity5.3.4/Uniy/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween">
+      <HintPath>Assets/DOTween/DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTweenEditor">
+      <HintPath>Assets/DOTween/Editor/DOTweenEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Graphs">
+      <HintPath>F:/Unity5.3.4/Uniy/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Android.Extensions">
+      <HintPath>F:/Unity5.3.4/Uniy/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
+      <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/2015/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.EditorTestsRunner">
+      <HintPath>F:/Unity5.3.4/Uniy/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Networking">
+      <HintPath>F:/Unity5.3.4/Uniy/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>F:/Unity5.3.4/Uniy/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+      <HintPath>F:/Unity5.3.4/Uniy/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>F:/Unity5.3.4/Uniy/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Advertisements">
+      <HintPath>F:/Unity5.3.4/Uniy/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.TreeEditor">
+      <HintPath>F:/Unity5.3.4/Uniy/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>F:/Unity5.3.4/Uniy/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\Script\Editor\BuildAssetBundle.cs" />
+    <Compile Include="Assets\Script\Editor\Font\BMFont\ArtistFont.cs" />
+    <Compile Include="Assets\Script\Editor\Font\BMFont\BMFont.cs" />
+    <Compile Include="Assets\Script\Editor\Font\BMFont\BMFontReader.cs" />
+    <Compile Include="Assets\Script\Editor\Font\BMFont\BMGlyph.cs" />
+    <Compile Include="Assets\Script\Editor\Font\BMFont\BetterList.cs" />
+    <Compile Include="Assets\Script\Editor\Font\BMFont\ByteReader.cs" />
+    <Compile Include="Assets\Script\Editor\Font\EditorHelper.cs" />
+    <Compile Include="Assets\Script\Editor\Font\EditorUtils.cs" />
+    <Compile Include="Assets\Script\Editor\Font\FontMakerWizard.cs" />
+    <Compile Include="Assets\Script\Editor\MUIReset.cs" />
+    <Compile Include="Assets\Script\Editor\UGUISpritePacker.cs" />
+    <Compile Include="Assets\Script\Editor\UpdateDate.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Editor\AnimationReferenceAssetEditor.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Editor\AssetDatabaseAvailabilityDetector.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Editor\BoneFollowerInspector.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Editor\Menus.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Editor\PointFollowerEditor.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Editor\SkeletonAnimationInspector.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Editor\SkeletonBaker.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Editor\SkeletonBakingWindow.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Editor\SkeletonDataAssetInspector.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Editor\SkeletonDebugWindow.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Editor\SkeletonMecanimInspector.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Editor\SkeletonRendererInspector.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Editor\SpineAtlasAssetInspector.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Editor\SpineAttributeDrawers.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Editor\SpineEditorUtilities.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Editor\SpineInspectorUtility.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Modules\BoundingBoxFollower\Editor\BoundingBoxFollowerInspector.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Modules\CustomMaterials\Editor\SkeletonRendererCustomMaterialsInspector.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Modules\Ragdoll\Editor\SkeletonRagdoll2DInspector.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Modules\Ragdoll\Editor\SkeletonRagdollInspector.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Modules\Shaders\Sprite\Editor\SpineSpriteShaderGUI.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Modules\SkeletonGraphic\Editor\BoneFollowerGraphicInspector.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Modules\SkeletonGraphic\Editor\SkeletonGraphicInspector.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Modules\SkeletonRenderSeparator\Editor\SkeletonPartsRendererInspector.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Modules\SkeletonRenderSeparator\Editor\SkeletonRenderSeparatorInspector.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Modules\SlotBlendModes\Editor\SlotBlendModesEditor.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Modules\Timeline\Editor\SpineAnimationStateDrawer.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\Modules\Timeline\Editor\SpineSkeletonFlipDrawer.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\SkeletonUtility\Editor\SkeletonUtilityBoneInspector.cs" />
+    <Compile Include="Assets\Spine\Editor\spine-unity\SkeletonUtility\Editor\SkeletonUtilityInspector.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\DOTween\DOTween.XML" />
+    <None Include="Assets\DOTween\Editor\DOTweenEditor.XML" />
+    <None Include="Assets\DOTween\readme.txt" />
+    <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+    <None Include="Assets\Plugins\Android\res\drawable\left_bt.xml" />
+    <None Include="Assets\Plugins\Android\res\drawable\midle_bt.xml" />
+    <None Include="Assets\Plugins\Android\res\drawable\right_bt.xml" />
+    <None Include="Assets\Plugins\Android\res\layout\activity_main.xml" />
+    <None Include="Assets\Plugins\Android\res\layout\dialog_normal_layout.xml" />
+    <None Include="Assets\Plugins\Android\res\layout\test.xml" />
+    <None Include="Assets\Plugins\Android\res\values-w820dp\dimens.xml" />
+    <None Include="Assets\Plugins\Android\res\values\dimens.xml" />
+    <None Include="Assets\Plugins\Android\res\values\strings.xml" />
+    <None Include="Assets\Plugins\Android\res\values\styles.xml" />
+    <None Include="Assets\ResPrefab\aa_animal_env_prefab\spine_bruin\Bruin.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_env_prefab\spine_chook\Chook.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_env_prefab\spine_cow\Cow.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_env_prefab\spine_duck\Duck.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_env_prefab\spine_goose\Goose.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_env_prefab\spine_horse\Horse.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_env_prefab\spine_leopard\Leopard.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_env_prefab\spine_owl\Owl.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_env_prefab\spine_pig\Pig.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_env_prefab\spine_pigeon\Pigeon.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_env_prefab\spine_rabbit\Rabbit.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_env_prefab\spine_sheep\Sheep.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_env_prefab\spine_swallow\Swallow.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_env_prefab\spine_tiger\Tiger.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_person_prefab\spine_bruin\bruin.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_person_prefab\spine_chook\chook.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_person_prefab\spine_cow\cow.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_person_prefab\spine_duck\duck.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_person_prefab\spine_goose\goose.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_person_prefab\spine_horse\house.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_person_prefab\spine_leopard\leopard.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_person_prefab\spine_owl\owl.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_person_prefab\spine_pig\pig.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_person_prefab\spine_pigeon\pigeon.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_person_prefab\spine_rabbit\rabbit.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_person_prefab\spine_sheep\sheep.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_person_prefab\spine_swallow\swallow.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_animal_person_prefab\spine_tiger\tiger.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_fish_prefab\Fish_1\Fish_1.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_fish_prefab\Fish_2\Fish_2.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_fish_prefab\Fish_3\Fish_3.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_fish_prefab\Fish_4\Fish_4.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_littlefish_prefab\Fish_1\Fish_1.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_littlefish_prefab\Fish_2\Fish_2.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_littlefish_prefab\Fish_3\Fish_3.atlas.txt" />
+    <None Include="Assets\ResPrefab\aa_littlefish_prefab\Fish_4\Fish_4.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalclass_prefab\Bruin\Bruin.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalclass_prefab\Chook\Chook.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalclass_prefab\Cow\Cow.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalclass_prefab\Duck\Duck.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalclass_prefab\Goose\Goose.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalclass_prefab\Horse\Horse.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalclass_prefab\Leopard\Leopard.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalclass_prefab\Owl\Owl.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalclass_prefab\Pig\Pig.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalclass_prefab\Pigeon\Pigeon.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalclass_prefab\Rabbit\Rabbit.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalclass_prefab\Sheep\Sheep.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalclass_prefab\Swallow\Swallow.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalclass_prefab\Tiger\Tiger.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalequation_prefab\Cow\Cow.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalequation_prefab\Fish\Fish.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalequation_prefab\Frog\Frog.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalequation_prefab\Frog\Frog_jump.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalequation_prefab\Horse\Horse.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalequation_prefab\Pigeon\Pigeon_1.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalequation_prefab\Pigeon\Pigeon_2.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalequation_prefab\Pigeon\Pigeon_3.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalequation_prefab\Pigs_and_sheep\Pigs.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalequation_prefab\Pigs_and_sheep\Sheep.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalequation_prefab\Swallow\Swallow_1.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalequation_prefab\Swallow\Swallow_2.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalequation_prefab\bruin\bruin.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalequation_prefab\chicken\chicken.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalequation_prefab\panda\panda.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalequation_prefab\rabbit\rabbit.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalequation_prefab\radish\Radish.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalhead_prefab\Bruin\Bruin.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalhead_prefab\Chook\Chook.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalhead_prefab\Cow\Cow.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalhead_prefab\Duck\Duck.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalhead_prefab\Goose\Goose.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalhead_prefab\Horse\Horse.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalhead_prefab\Leopard\Leopard.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalhead_prefab\Owl\Owl.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalhead_prefab\Pig\Pig.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalhead_prefab\Pigeon\Pigeon.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalhead_prefab\Rabbit\Rabbit.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalhead_prefab\Sheep\Sheep.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalhead_prefab\Swallow\Swallow.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalhead_prefab\Tiger\Tiger.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalparty_prefab\Balloon\Balloon.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalparty_prefab\Kbaby\Kbaby.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalshome_prefab\bird\bird.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalshome_prefab\clock\Clock.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalsort_prefab\Circle\Circle.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalsort_prefab\Square\Square.atlas.txt" />
+    <None Include="Assets\ResPrefab\animalsort_prefab\Triangle\Triangle.atlas.txt" />
+    <None Include="Assets\ResPrefab\birthdaycake_prefab\fire\Candlelight.atlas.txt" />
+    <None Include="Assets\ResPrefab\birthdaycake_prefab\music0\Note_1.atlas.txt" />
+    <None Include="Assets\ResPrefab\birthdaycake_prefab\music1\Note_2.atlas.txt" />
+    <None Include="Assets\ResPrefab\birthdaycake_prefab\music2\Note_3.atlas.txt" />
+    <None Include="Assets\ResPrefab\catchfish_prefab\Fish_1\Fish_1.atlas.txt" />
+    <None Include="Assets\ResPrefab\catchfish_prefab\Fish_2\Fish_2.atlas.txt" />
+    <None Include="Assets\ResPrefab\catchfish_prefab\Fish_3\Fish_3.atlas.txt" />
+    <None Include="Assets\ResPrefab\catchfish_prefab\Fish_4\Fish_4.atlas.txt" />
+    <None Include="Assets\ResPrefab\chookpk_prefab\chook0\Chook.atlas.txt" />
+    <None Include="Assets\ResPrefab\chookpk_prefab\chook1\Biddy.atlas.txt" />
+    <None Include="Assets\ResPrefab\chookpk_prefab\chook2\Chick.atlas.txt" />
+    <None Include="Assets\ResPrefab\findhome_prefab\Administrator\Administrator.atlas.txt" />
+    <None Include="Assets\ResPrefab\findhome_prefab\Bruin\Bruin.atlas.txt" />
+    <None Include="Assets\ResPrefab\findhome_prefab\Chock\Clock.atlas.txt" />
+    <None Include="Assets\ResPrefab\findhome_prefab\Chook\Chook.atlas.txt" />
+    <None Include="Assets\ResPrefab\findhome_prefab\Cow\Cow.atlas.txt" />
+    <None Include="Assets\ResPrefab\findhome_prefab\Duck\Duck.atlas.txt" />
+    <None Include="Assets\ResPrefab\findhome_prefab\Goose\Goose.atlas.txt" />
+    <None Include="Assets\ResPrefab\findhome_prefab\Horse\Horse.atlas.txt" />
+    <None Include="Assets\ResPrefab\findhome_prefab\Leopard\Leopard.atlas.txt" />
+    <None Include="Assets\ResPrefab\findhome_prefab\Owl\Owl.atlas.txt" />
+    <None Include="Assets\ResPrefab\findhome_prefab\Pig\Pig.atlas.txt" />
+    <None Include="Assets\ResPrefab\findhome_prefab\Pigeon\Pigeon.atlas.txt" />
+    <None Include="Assets\ResPrefab\findhome_prefab\Rabbit\Rabbit.atlas.txt" />
+    <None Include="Assets\ResPrefab\findhome_prefab\Sheep\Sheep.atlas.txt" />
+    <None Include="Assets\ResPrefab\findhome_prefab\Swallow\Swallow.atlas.txt" />
+    <None Include="Assets\ResPrefab\findhome_prefab\Tiger\Tiger.atlas.txt" />
+    <None Include="Assets\ResPrefab\findposition_prefab\Chock\Clock.atlas.txt" />
+    <None Include="Assets\ResPrefab\fishing_prefab\chook\chook.atlas.txt" />
+    <None Include="Assets\ResPrefab\fishing_prefab\goose\goose.atlas.txt" />
+    <None Include="Assets\ResPrefab\fishing_prefab\pig\pig.atlas.txt" />
+    <None Include="Assets\ResPrefab\fishing_prefab\pigeon\pigeon.atlas.txt" />
+    <None Include="Assets\ResPrefab\funnygroup_prefab\Boy\Boy.atlas.txt" />
+    <None Include="Assets\ResPrefab\funnygroup_prefab\Girl\Girl.atlas.txt" />
+    <None Include="Assets\ResPrefab\knowcircular_prefab\Kbaby\Kbaby.atlas.txt" />
+    <None Include="Assets\ResPrefab\knowcircular_prefab\roundness\roundness.atlas.txt" />
+    <None Include="Assets\ResPrefab\knowcircular_prefab\square\square.atlas.txt" />
+    <None Include="Assets\ResPrefab\knowcircular_prefab\triangle\triangle.atlas.txt" />
+    <None Include="Assets\ResPrefab\knowcube_prefab\Cube\Cube.atlas.txt" />
+    <None Include="Assets\ResPrefab\knowoneandten_prefab\Monster_1\Monster_1.atlas.txt" />
+    <None Include="Assets\ResPrefab\knowoneandten_prefab\Monster_2\Monster_2.atlas.txt" />
+    <None Include="Assets\ResPrefab\knowoneandten_prefab\Monster_3\Monster_3.atlas.txt" />
+    <None Include="Assets\ResPrefab\learntime_prefab\Breakfast\Breakfast.atlas.txt" />
+    <None Include="Assets\ResPrefab\learntime_prefab\Game\Game.atlas.txt" />
+    <None Include="Assets\ResPrefab\learntime_prefab\Get_up\Get_up.atlas.txt" />
+    <None Include="Assets\ResPrefab\learntime_prefab\School\School.atlas.txt" />
+    <None Include="Assets\ResPrefab\learntime_prefab\Study\Study.atlas.txt" />
+    <None Include="Assets\ResPrefab\lookvase_prefab\Monkey\Monkey.atlas.txt" />
+    <None Include="Assets\ResPrefab\lookvase_prefab\Rabbit\Rabbit.atlas.txt" />
+    <None Include="Assets\ResPrefab\lookvase_prefab\pig\pig.atlas.txt" />
+    <None Include="Assets\ResPrefab\lookvase_prefab\sheep\sheep.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\1\1.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\10\10.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\11\11.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\2\2.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\3\3.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\4\4.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\5\5.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\6\6.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\7\7.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\8\8.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\9\9.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Dinosaur_1\Dinosaur_1.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Dinosaur_2\Dinosaur_2.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Dinosaur_3\Dinosaur_3.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Dinosaur_4\Dinosaur_4.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Dinosaur_5\Dinosaur_5.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Dinosaur_6\Dinosaur_6.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Panda_1\Panda_1.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Panda_2\Panda_2.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Panda_3\Panda_3.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Panda_4\Panda_4.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Panda_5\Panda_5.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Person8_1\Person_1.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Person8_2\Person_2.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Person8_3\Person_3.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Person8_4\Person_4.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Person8_5\Person_5.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Person8_6\Person_6.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Person8_7\Person_7.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Person8_8\Person_8.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Person_1\Person_1.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Person_2\Person_2.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Person_3\Person_3.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Person_4\Person_4.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Person_5\Person_5.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Person_6\Person_6.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Person_7\Person_7.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Person_8\Person_8.atlas.txt" />
+    <None Include="Assets\ResPrefab\manyequation_prefab\Person_9\Person_9.atlas.txt" />
+    <None Include="Assets\ResPrefab\monkeysortout_prefab\1\1.atlas.txt" />
+    <None Include="Assets\ResPrefab\monkeysortout_prefab\10\10.atlas.txt" />
+    <None Include="Assets\ResPrefab\monkeysortout_prefab\2\2.atlas.txt" />
+    <None Include="Assets\ResPrefab\monkeysortout_prefab\3\3.atlas.txt" />
+    <None Include="Assets\ResPrefab\monkeysortout_prefab\4\4.atlas.txt" />
+    <None Include="Assets\ResPrefab\monkeysortout_prefab\5\5.atlas.txt" />
+    <None Include="Assets\ResPrefab\monkeysortout_prefab\6\6.atlas.txt" />
+    <None Include="Assets\ResPrefab\monkeysortout_prefab\7\7.atlas.txt" />
+    <None Include="Assets\ResPrefab\monkeysortout_prefab\8\8.atlas.txt" />
+    <None Include="Assets\ResPrefab\monkeysortout_prefab\9\9.atlas.txt" />
+    <None Include="Assets\ResPrefab\oneandmore_prefab\Duck\Duck.atlas.txt" />
+    <None Include="Assets\ResPrefab\oneandmore_prefab\Duckling\Duckling.atlas.txt" />
+    <None Include="Assets\ResPrefab\oneandmore_prefab\Pig\Pig.atlas.txt" />
+    <None Include="Assets\ResPrefab\oneandmore_prefab\Porket\Porket.atlas.txt" />
+    <None Include="Assets\ResPrefab\rabbitgohome_prefab\Girl\Girl.atlas.txt" />
+    <None Include="Assets\ResPrefab\rabbitgohome_prefab\rabbit\rabbit.atlas.txt" />
+    <None Include="Assets\ResPrefab\regularmaze_prefab\Bruin\Bruin.atlas.txt" />
+    <None Include="Assets\ResPrefab\regularmaze_prefab\Duck\Duck.atlas.txt" />
+    <None Include="Assets\ResPrefab\regularmaze_prefab\Frog\Frog.atlas.txt" />
+    <None Include="Assets\ResPrefab\regularmaze_prefab\Pig\Pig.atlas.txt" />
+    <None Include="Assets\ResPrefab\regularmaze_prefab\Tadpole\Tadpole.atlas.txt" />
+    <None Include="Assets\ResPrefab\regularorder_prefab\flower\Flower.atlas.txt" />
+    <None Include="Assets\ResPrefab\regularorder_prefab\pig\Pig.atlas.txt" />
+    <None Include="Assets\ResPrefab\singledualnum_prefab\Crab\Crab.atlas.txt" />
+    <None Include="Assets\ResPrefab\singledualnum_prefab\Octopus\Octopus.atlas.txt" />
+    <None Include="Assets\ResPrefab\singledualnum_prefab\Puffer\Puffer.atlas.txt" />
+    <None Include="Assets\ResPrefab\singledualnum_prefab\little\little.atlas.txt" />
+    <None Include="Assets\ResPrefab\singledualnum_prefab\plant\plant.atlas.txt" />
+    <None Include="Assets\Resources\shader\RawRound.shader" />
+    <None Include="Assets\Resources\txt\config_apk.txt" />
+    <None Include="Assets\Resources\txt\config_game.txt" />
+    <None Include="Assets\Resources\txt\config_games.txt" />
+    <None Include="Assets\Resources\txt\config_tujian.txt" />
+    <None Include="Assets\ResourcesStatic\config\txt\config_apk.txt" />
+    <None Include="Assets\ResourcesStatic\config\txt\config_game.txt" />
+    <None Include="Assets\ResourcesStatic\config\txt\config_games.txt" />
+    <None Include="Assets\ResourcesStatic\config\txt\config_tujian.txt" />
+    <None Include="Assets\ResourcesStatic\prefab\Kbady\Kbaby.atlas.txt" />
+    <None Include="Assets\Shader\RawRound.shader" />
+    <None Include="Assets\Spine Examples\Spine Skeletons\Dragon\dragon.atlas.txt" />
+    <None Include="Assets\Spine Examples\Spine Skeletons\Dragon\license.txt" />
+    <None Include="Assets\Spine Examples\Spine Skeletons\Eyes\eyes.atlas.txt" />
+    <None Include="Assets\Spine Examples\Spine Skeletons\FootSoldier\Equipment\Equipment.atlas.txt" />
+    <None Include="Assets\Spine Examples\Spine Skeletons\FootSoldier\FS_White.atlas.txt" />
+    <None Include="Assets\Spine Examples\Spine Skeletons\FootSoldier\license.txt" />
+    <None Include="Assets\Spine Examples\Spine Skeletons\Gauge\Gauge.atlas.txt" />
+    <None Include="Assets\Spine Examples\Spine Skeletons\Goblins\goblins.atlas.txt" />
+    <None Include="Assets\Spine Examples\Spine Skeletons\Hero\hero-pro.atlas.txt" />
+    <None Include="Assets\Spine Examples\Spine Skeletons\Hero\license.txt" />
+    <None Include="Assets\Spine Examples\Spine Skeletons\Raggedy Spineboy\Raggedy Spineboy.atlas.txt" />
+    <None Include="Assets\Spine Examples\Spine Skeletons\Raptor\raptor.atlas.txt" />
+    <None Include="Assets\Spine Examples\Spine Skeletons\Spineunitygirl\Doi.atlas.txt" />
+    <None Include="Assets\Spine Examples\Spine Skeletons\Stretchyman\stretchyman-diffuse-pma.atlas.txt" />
+    <None Include="Assets\Spine Examples\Spine Skeletons\spineboy-pro\spineboy-pro.atlas.txt" />
+    <None Include="Assets\Spine Examples\Spine Skeletons\spineboy-unity\spineboy.atlas.txt" />
+    <None Include="Assets\Spine\Editor\spine-unity\Editor\Resources\SpineAssetDatabaseMarker.txt" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\CustomMaterials\SkeletonRendererCustomMaterials.txt" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\Ghost\Shaders\Spine-Special-Skeleton-Ghost.shader" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\Shaders\Spine-Skeleton-Fill.shader" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\Shaders\Spine-Skeleton-Tint.shader" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\Shaders\Sprite\CGIncludes\ShaderMaths.cginc" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\Shaders\Sprite\CGIncludes\ShaderShared.cginc" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\Shaders\Sprite\CGIncludes\SpriteLighting.cginc" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\Shaders\Sprite\CGIncludes\SpritePixelLighting.cginc" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\Shaders\Sprite\CGIncludes\SpriteShadows.cginc" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\Shaders\Sprite\CGIncludes\SpriteSpecular.cginc" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\Shaders\Sprite\CGIncludes\SpriteUnlit.cginc" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\Shaders\Sprite\CGIncludes\SpriteVertexLighting.cginc" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\Shaders\Sprite\CameraDepthNormalsTexture.shader" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\Shaders\Sprite\CameraDepthTexture.shader" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\Shaders\Sprite\CameraNormalsTexture.shader" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\Shaders\Sprite\ShaderShared.cginc" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\Shaders\Sprite\SpriteDepthNormalsTexture.shader" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\Shaders\Sprite\SpriteLighting.cginc" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\Shaders\Sprite\SpritePixelLighting.cginc" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\Shaders\Sprite\SpriteShadows.cginc" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\Shaders\Sprite\SpriteUnlit.cginc" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\Shaders\Sprite\SpriteVertexLighting.cginc" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\Shaders\Sprite\SpritesPixelLit.shader" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\Shaders\Sprite\SpritesUnlit.shader" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\Shaders\Sprite\SpritesVertexLit.shader" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\SkeletonGraphic\Shaders\Spine-SkeletonGraphic-TintBlack.shader" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\SkeletonGraphic\Shaders\Spine-SkeletonGraphic.shader" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\SkeletonRenderSeparator\SkeletonRenderSeparator.txt" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\SlotBlendModes\Spine-Skeleton-PMA-Multiply.shader" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Modules\SlotBlendModes\Spine-Skeleton-PMA-Screen.shader" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Shaders\Spine-Skeleton-TintBlack.shader" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Shaders\Spine-Skeleton.shader" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Shaders\Spine-SkeletonLit.shader" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Shaders\Utility\Hidden-Spine-Bones.shader" />
+    <None Include="Assets\Spine\Runtime\spine-unity\Shaders\Utility\HiddenPass.shader" />
+    <None Include="Assets\Spine\version.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="GenerateTargetFrameworkMonikerAttribute" />
+</Project>

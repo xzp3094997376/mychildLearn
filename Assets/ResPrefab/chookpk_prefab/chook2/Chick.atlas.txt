@@ -1,0 +1,41 @@
+
+Chick.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 55
+  size: 99, 70
+  orig: 99, 70
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 2, 24
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: false
+  xy: 103, 105
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: false
+  xy: 2, 2
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+Wing
+  rotate: false
+  xy: 33, 28
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1

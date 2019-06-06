@@ -1,0 +1,97 @@
+
+Panda_4.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bamboo
+  rotate: false
+  xy: 652, 67
+  size: 77, 46
+  orig: 77, 46
+  offset: 0, 0
+  index: -1
+L_hand_a
+  rotate: false
+  xy: 858, 71
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 731, 71
+  size: 42, 70
+  orig: 42, 70
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 803, 60
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+R_hand_b
+  rotate: false
+  xy: 906, 82
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 501, 54
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 140, 28
+  size: 95, 85
+  orig: 95, 85
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 573, 65
+  size: 77, 48
+  orig: 77, 48
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 422, 57
+  size: 77, 56
+  orig: 77, 56
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 341, 57
+  size: 79, 56
+  orig: 79, 56
+  offset: 0, 0
+  index: -1
+handi
+  rotate: false
+  xy: 140, 2
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 136, 111
+  orig: 136, 111
+  offset: 0, 0
+  index: -1
+kangkang
+  rotate: true
+  xy: 237, 52
+  size: 61, 102
+  orig: 61, 102
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+Game.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ball
+  rotate: false
+  xy: 258, 65
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 18
+  size: 155, 235
+  orig: 155, 235
+  offset: 0, 0
+  index: -1
+Jaw
+  rotate: false
+  xy: 159, 23
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+L_brow
+  rotate: false
+  xy: 288, 141
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+L_ear
+  rotate: false
+  xy: 199, 20
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+L_eye
+  rotate: true
+  xy: 426, 151
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 159, 135
+  size: 127, 118
+  orig: 127, 118
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 426, 171
+  size: 81, 82
+  orig: 81, 82
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 2, 2
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 258, 53
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+R_brow
+  rotate: false
+  xy: 467, 162
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: false
+  xy: 227, 22
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+R_eye
+  rotate: false
+  xy: 449, 151
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 288, 152
+  size: 101, 136
+  orig: 101, 136
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 159, 48
+  size: 97, 85
+  orig: 97, 85
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+Octopus.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 253
+  size: 846, 734
+  orig: 846, 734
+  offset: 0, 0
+  index: -1
+Cirrus_1
+  rotate: false
+  xy: 850, 358
+  size: 127, 191
+  orig: 127, 191
+  offset: 0, 0
+  index: -1
+Cirrus_2
+  rotate: true
+  xy: 385, 35
+  size: 216, 200
+  orig: 216, 200
+  offset: 0, 0
+  index: -1
+Cirrus_3
+  rotate: true
+  xy: 587, 72
+  size: 179, 229
+  orig: 179, 229
+  offset: 0, 0
+  index: -1
+Cirrus_4
+  rotate: false
+  xy: 2, 26
+  size: 200, 225
+  orig: 200, 225
+  offset: 0, 0
+  index: -1
+Cirrus_5
+  rotate: true
+  xy: 204, 2
+  size: 249, 179
+  orig: 249, 179
+  offset: 0, 0
+  index: -1
+Cirrus_6
+  rotate: true
+  xy: 818, 87
+  size: 120, 177
+  orig: 120, 177
+  offset: 0, 0
+  index: -1
+Cirrus_7
+  rotate: false
+  xy: 850, 772
+  size: 171, 215
+  orig: 171, 215
+  offset: 0, 0
+  index: -1
+Cirrus_8
+  rotate: true
+  xy: 850, 551
+  size: 219, 123
+  orig: 219, 123
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: false
+  xy: 818, 8
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+White
+  rotate: false
+  xy: 850, 209
+  size: 150, 147
+  orig: 150, 147
+  offset: 0, 0
+  index: -1

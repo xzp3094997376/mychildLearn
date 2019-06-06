@@ -1,0 +1,69 @@
+
+goose.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hand
+  rotate: false
+  xy: 2, 111
+  size: 171, 143
+  orig: 171, 143
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 38, 5
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+Mouth_1
+  rotate: false
+  xy: 220, 195
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+Mouth_3
+  rotate: true
+  xy: 220, 221
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 175, 200
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 175, 175
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 33
+  size: 76, 155
+  orig: 76, 155
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 159, 96
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+wei
+  rotate: true
+  xy: 2, 2
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1

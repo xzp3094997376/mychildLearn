@@ -1,0 +1,97 @@
+
+Frog.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 64, 21
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: true
+  xy: 103, 37
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 191, 32
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 147, 38
+  size: 19, 42
+  orig: 19, 42
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 223, 32
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+eye_a
+  rotate: false
+  xy: 103, 19
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+eye_b
+  rotate: false
+  xy: 173, 30
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+eye_c
+  rotate: false
+  xy: 122, 19
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+eyeball
+  rotate: true
+  xy: 89, 6
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+mouth_a
+  rotate: false
+  xy: 147, 30
+  size: 24, 6
+  orig: 24, 6
+  offset: 0, 0
+  index: -1
+mouth_b
+  rotate: false
+  xy: 64, 6
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+mouth_c
+  rotate: false
+  xy: 122, 27
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1

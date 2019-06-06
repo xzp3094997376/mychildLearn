@@ -1,0 +1,118 @@
+
+Sheep.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 18
+  size: 356, 236
+  orig: 356, 236
+  offset: 0, 0
+  index: -1
+Eye_a
+  rotate: false
+  xy: 596, 120
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Eye_b
+  rotate: true
+  xy: 360, 2
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: false
+  xy: 379, 5
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 483, 168
+  size: 153, 86
+  orig: 153, 86
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 360, 104
+  size: 121, 150
+  orig: 121, 150
+  offset: 0, 0
+  index: -1
+L_Ear
+  rotate: true
+  xy: 483, 110
+  size: 56, 111
+  orig: 56, 111
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: true
+  xy: 638, 220
+  size: 34, 102
+  orig: 34, 102
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 638, 180
+  size: 38, 97
+  orig: 38, 97
+  offset: 0, 0
+  index: -1
+Mouth_1
+  rotate: false
+  xy: 409, 11
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+Mouth_2
+  rotate: false
+  xy: 976, 225
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 436, 14
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+R_Ear
+  rotate: true
+  xy: 360, 35
+  size: 67, 109
+  orig: 67, 109
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 742, 218
+  size: 36, 99
+  orig: 36, 99
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 843, 221
+  size: 33, 88
+  orig: 33, 88
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 933, 214
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1

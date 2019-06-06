@@ -1,0 +1,83 @@
+
+Person_9.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hand
+  rotate: false
+  xy: 147, 49
+  size: 149, 75
+  orig: 149, 75
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 719, 89
+  size: 35, 80
+  orig: 35, 80
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 508, 71
+  size: 71, 53
+  orig: 71, 53
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 147, 3
+  size: 44, 75
+  orig: 44, 75
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 298, 35
+  size: 89, 104
+  orig: 89, 104
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 648, 76
+  size: 69, 48
+  orig: 69, 48
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 581, 71
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 801, 76
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+handi
+  rotate: false
+  xy: 404, 37
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 143, 122
+  orig: 143, 122
+  offset: 0, 0
+  index: -1
+kangkang
+  rotate: true
+  xy: 404, 63
+  size: 61, 102
+  orig: 61, 102
+  offset: 0, 0
+  index: -1

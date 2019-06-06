@@ -1,0 +1,153 @@
+
+Sheep.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_ear_s
+  rotate: false
+  xy: 457, 25
+  size: 52, 101
+  orig: 52, 101
+  offset: 0, 0
+  index: -1
+L_hand_a_s
+  rotate: true
+  xy: 457, 2
+  size: 21, 51
+  orig: 21, 51
+  offset: 0, 0
+  index: -1
+L_hand_b_s
+  rotate: false
+  xy: 557, 35
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+L_leg_s
+  rotate: true
+  xy: 625, 100
+  size: 26, 77
+  orig: 26, 77
+  offset: 0, 0
+  index: -1
+R_ear_s
+  rotate: false
+  xy: 511, 26
+  size: 44, 100
+  orig: 44, 100
+  offset: 0, 0
+  index: -1
+R_hand_a_s
+  rotate: true
+  xy: 229, 6
+  size: 28, 54
+  orig: 28, 54
+  offset: 0, 0
+  index: -1
+R_hand_b_s
+  rotate: true
+  xy: 704, 93
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+R_leg_s
+  rotate: true
+  xy: 150, 7
+  size: 27, 77
+  orig: 27, 77
+  offset: 0, 0
+  index: -1
+blusher_s
+  rotate: false
+  xy: 916, 102
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+body_s
+  rotate: false
+  xy: 2, 4
+  size: 146, 122
+  orig: 146, 122
+  offset: 0, 0
+  index: -1
+cap_s
+  rotate: false
+  xy: 150, 36
+  size: 166, 90
+  orig: 166, 90
+  offset: 0, 0
+  index: -1
+collar_s
+  rotate: false
+  xy: 557, 87
+  size: 66, 39
+  orig: 66, 39
+  offset: 0, 0
+  index: -1
+eye_a_s
+  rotate: true
+  xy: 755, 86
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+eye_b_s
+  rotate: true
+  xy: 604, 48
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+eye_c_s
+  rotate: false
+  xy: 804, 101
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+eyeball_s
+  rotate: false
+  xy: 889, 101
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+head_s
+  rotate: true
+  xy: 318, 12
+  size: 114, 137
+  orig: 114, 137
+  offset: 0, 0
+  index: -1
+mouth_a_s
+  rotate: false
+  xy: 942, 103
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+mouth_b_s
+  rotate: true
+  xy: 851, 103
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+mouth_c_s
+  rotate: false
+  xy: 285, 2
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+nose_s
+  rotate: false
+  xy: 963, 109
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1

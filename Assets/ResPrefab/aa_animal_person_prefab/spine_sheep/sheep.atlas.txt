@@ -1,0 +1,104 @@
+
+sheep.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eye
+  rotate: false
+  xy: 143, 47
+  size: 48, 8
+  orig: 48, 8
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: true
+  xy: 143, 57
+  size: 17, 56
+  orig: 17, 56
+  offset: 0, 0
+  index: -1
+Mouth_1
+  rotate: false
+  xy: 241, 51
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Mouth_2
+  rotate: false
+  xy: 241, 66
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+Mouth_3
+  rotate: false
+  xy: 136, 27
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+bai
+  rotate: false
+  xy: 58, 2
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 64, 56
+  size: 77, 68
+  orig: 77, 68
+  offset: 0, 0
+  index: -1
+ear1
+  rotate: true
+  xy: 2, 7
+  size: 24, 54
+  orig: 24, 54
+  offset: 0, 0
+  index: -1
+ear2
+  rotate: true
+  xy: 64, 30
+  size: 24, 54
+  orig: 24, 54
+  offset: 0, 0
+  index: -1
+hand_a
+  rotate: false
+  xy: 120, 14
+  size: 14, 40
+  orig: 14, 40
+  offset: 0, 0
+  index: -1
+hand_b
+  rotate: false
+  xy: 201, 50
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 33
+  size: 60, 91
+  orig: 60, 91
+  offset: 0, 0
+  index: -1
+hei
+  rotate: true
+  xy: 239, 82
+  size: 42, 15
+  orig: 42, 15
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 143, 76
+  size: 94, 48
+  orig: 94, 48
+  offset: 0, 0
+  index: -1

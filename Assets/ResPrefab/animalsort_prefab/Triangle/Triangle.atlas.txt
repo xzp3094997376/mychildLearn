@@ -1,0 +1,118 @@
+
+Triangle.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Brow
+  rotate: false
+  xy: 2, 6
+  size: 129, 65
+  orig: 129, 65
+  offset: 0, 0
+  index: -1
+Brow2
+  rotate: false
+  xy: 264, 170
+  size: 128, 41
+  orig: 128, 41
+  offset: 0, 0
+  index: -1
+Eye_1
+  rotate: false
+  xy: 292, 354
+  size: 136, 130
+  orig: 136, 130
+  offset: 0, 0
+  index: -1
+Eye_2
+  rotate: false
+  xy: 2, 73
+  size: 130, 144
+  orig: 130, 144
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: false
+  xy: 386, 274
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+Eyelid
+  rotate: false
+  xy: 134, 170
+  size: 128, 47
+  orig: 128, 47
+  offset: 0, 0
+  index: -1
+Gas
+  rotate: false
+  xy: 335, 128
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: true
+  xy: 292, 213
+  size: 56, 109
+  orig: 56, 109
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 219
+  size: 288, 265
+  orig: 288, 265
+  offset: 0, 0
+  index: -1
+Mouth_1
+  rotate: false
+  xy: 134, 66
+  size: 88, 36
+  orig: 88, 36
+  offset: 0, 0
+  index: -1
+Mouth_2
+  rotate: false
+  xy: 134, 104
+  size: 106, 64
+  orig: 106, 64
+  offset: 0, 0
+  index: -1
+Mouth_3
+  rotate: false
+  xy: 403, 229
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+Mouth_4
+  rotate: true
+  xy: 430, 385
+  size: 99, 80
+  orig: 99, 80
+  offset: 0, 0
+  index: -1
+Mouth_5
+  rotate: false
+  xy: 133, 2
+  size: 75, 62
+  orig: 75, 62
+  offset: 0, 0
+  index: -1
+Mouth_6
+  rotate: false
+  xy: 242, 111
+  size: 91, 57
+  orig: 91, 57
+  offset: 0, 0
+  index: -1
+Tongue
+  rotate: false
+  xy: 292, 271
+  size: 92, 81
+  orig: 92, 81
+  offset: 0, 0
+  index: -1

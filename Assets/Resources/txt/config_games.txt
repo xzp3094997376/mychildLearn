@@ -1,0 +1,8 @@
+string，string，int，int，int
+game_enum，game_name，module，module_index，all_guanka
+MonkeySortOut，猴子分一分，集合，1，9
+AnimalClassification，动物回家，集合，2，4
+CountAndClassify，动物比多少，集合，3，3
+AnimalSort，三个小怪兽，量，2，3
+RegularOrder，小猪和花，量，1，3
+BirthdayCake，生日蛋糕，量，3，2

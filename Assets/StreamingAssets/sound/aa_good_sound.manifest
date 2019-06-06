@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 635909577
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 87d037ac11e5bdd98d17f431a916a1b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/ResSound/aa_good_sound/goodsound2.wav
+- Assets/ResSound/aa_good_sound/goodsound1.wav
+- Assets/ResSound/aa_good_sound/goodsound4.wav
+- Assets/ResSound/aa_good_sound/goodsound3.wav
+- Assets/ResSound/aa_good_sound/goodsound0.wav
+Dependencies: []

@@ -1,0 +1,97 @@
+
+Cow.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eye_a
+  rotate: false
+  xy: 437, 204
+  size: 121, 25
+  orig: 121, 25
+  offset: 0, 0
+  index: -1
+Eye_b
+  rotate: false
+  xy: 236, 131
+  size: 120, 34
+  orig: 120, 34
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2, 43
+  size: 186, 232
+  orig: 186, 232
+  offset: 0, 0
+  index: -1
+L_Ear
+  rotate: false
+  xy: 612, 267
+  size: 47, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+L_arm_1
+  rotate: true
+  xy: 417, 231
+  size: 77, 193
+  orig: 77, 193
+  offset: 0, 0
+  index: -1
+L_leg_1
+  rotate: false
+  xy: 612, 326
+  size: 57, 184
+  orig: 57, 184
+  offset: 0, 0
+  index: -1
+Mouth_a
+  rotate: false
+  xy: 116, 7
+  size: 63, 34
+  orig: 63, 34
+  offset: 0, 0
+  index: -1
+Mouth_b
+  rotate: false
+  xy: 2, 2
+  size: 112, 39
+  orig: 112, 39
+  offset: 0, 0
+  index: -1
+R_Ear
+  rotate: false
+  xy: 671, 460
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+R_arm_1
+  rotate: true
+  xy: 236, 167
+  size: 62, 199
+  orig: 62, 199
+  offset: 0, 0
+  index: -1
+R_leg_1
+  rotate: false
+  xy: 417, 310
+  size: 97, 200
+  orig: 97, 200
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 231
+  size: 413, 279
+  orig: 413, 279
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 516, 310
+  size: 94, 200
+  orig: 94, 200
+  offset: 0, 0
+  index: -1

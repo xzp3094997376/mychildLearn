@@ -1,0 +1,20 @@
+
+Candlelight.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Candlelight
+  rotate: false
+  xy: 42, 20
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 2, 2
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1

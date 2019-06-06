@@ -1,0 +1,90 @@
+
+Person_7.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hand
+  rotate: false
+  xy: 431, 69
+  size: 102, 53
+  orig: 102, 53
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 755, 68
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 131, 48
+  size: 100, 74
+  orig: 100, 74
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 131, 7
+  size: 39, 84
+  orig: 39, 84
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 233, 47
+  size: 75, 92
+  orig: 75, 92
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 613, 71
+  size: 71, 51
+  orig: 71, 51
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 686, 65
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 535, 73
+  size: 76, 49
+  orig: 76, 49
+  offset: 0, 0
+  index: -1
+fu
+  rotate: false
+  xy: 819, 84
+  size: 63, 38
+  orig: 63, 38
+  offset: 0, 0
+  index: -1
+handi
+  rotate: false
+  xy: 884, 98
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 127, 120
+  orig: 127, 120
+  offset: 0, 0
+  index: -1
+kangkang
+  rotate: true
+  xy: 327, 61
+  size: 61, 102
+  orig: 61, 102
+  offset: 0, 0
+  index: -1

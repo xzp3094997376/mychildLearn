@@ -1,0 +1,20 @@
+
+Cube.png
+size: 64,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eye
+  rotate: false
+  xy: 2, 2
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 22, 9
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+Fish_3.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tail
+  rotate: true
+  xy: 131, 74
+  size: 48, 103
+  orig: 48, 103
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 28
+  size: 127, 94
+  orig: 127, 94
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 164, 48
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+fin
+  rotate: false
+  xy: 131, 43
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+fins
+  rotate: false
+  xy: 2, 2
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 31, 6
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1

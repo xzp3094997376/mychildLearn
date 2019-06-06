@@ -1,0 +1,104 @@
+
+Get_up.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 47
+  size: 173, 205
+  orig: 173, 205
+  offset: 0, 0
+  index: -1
+Clothing
+  rotate: false
+  xy: 177, 122
+  size: 135, 130
+  orig: 135, 130
+  offset: 0, 0
+  index: -1
+Jaw
+  rotate: false
+  xy: 2, 21
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+L_blusher
+  rotate: false
+  xy: 177, 80
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+L_brow
+  rotate: false
+  xy: 456, 246
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+L_ear
+  rotate: false
+  xy: 424, 223
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+L_eye
+  rotate: false
+  xy: 47, 24
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 314, 122
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 424, 212
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+R_blusher
+  rotate: false
+  xy: 210, 111
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+R_brow
+  rotate: false
+  xy: 71, 40
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: false
+  xy: 177, 91
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+R_eye
+  rotate: false
+  xy: 2, 2
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 314, 141
+  size: 108, 111
+  orig: 108, 111
+  offset: 0, 0
+  index: -1

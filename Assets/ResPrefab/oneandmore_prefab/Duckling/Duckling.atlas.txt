@@ -1,0 +1,76 @@
+
+Duckling.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mouth
+  rotate: true
+  xy: 208, 32
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+Mouth_a
+  rotate: false
+  xy: 60, 6
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 49
+  size: 112, 74
+  orig: 112, 74
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 169, 9
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+eye_a
+  rotate: true
+  xy: 241, 50
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 116, 34
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 145, 7
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 102, 2
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+wing_a
+  rotate: true
+  xy: 208, 73
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+wing_b
+  rotate: false
+  xy: 2, 3
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1

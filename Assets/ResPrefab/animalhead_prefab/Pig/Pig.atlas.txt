@@ -1,0 +1,62 @@
+
+Pig.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eye_a
+  rotate: false
+  xy: 2, 24
+  size: 98, 12
+  orig: 98, 12
+  offset: 0, 0
+  index: -1
+Eye_b
+  rotate: false
+  xy: 2, 38
+  size: 104, 46
+  orig: 104, 46
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: false
+  xy: 108, 50
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 86
+  size: 157, 167
+  orig: 157, 167
+  offset: 0, 0
+  index: -1
+L_ear
+  rotate: false
+  xy: 161, 176
+  size: 64, 77
+  orig: 64, 77
+  offset: 0, 0
+  index: -1
+Mouth_a
+  rotate: true
+  xy: 227, 198
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1
+Mouth_b
+  rotate: false
+  xy: 2, 2
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: false
+  xy: 161, 97
+  size: 64, 77
+  orig: 64, 77
+  offset: 0, 0
+  index: -1

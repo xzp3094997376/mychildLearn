@@ -1,0 +1,111 @@
+
+Dinosaur_3.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hand
+  rotate: false
+  xy: 256, 2
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 286, 2
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 344, 12
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 315, 2
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+angle_1
+  rotate: false
+  xy: 385, 13
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+angle_2
+  rotate: false
+  xy: 487, 97
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+angle_3
+  rotate: false
+  xy: 487, 65
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 21
+  size: 165, 105
+  orig: 165, 105
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 487, 45
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+eyeball
+  rotate: false
+  xy: 411, 29
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+handi
+  rotate: true
+  xy: 2, 3
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 256, 42
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+head_a
+  rotate: false
+  xy: 169, 39
+  size: 85, 87
+  orig: 85, 87
+  offset: 0, 0
+  index: -1
+head_b
+  rotate: false
+  xy: 340, 42
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+kangkang
+  rotate: false
+  xy: 424, 24
+  size: 61, 102
+  orig: 61, 102
+  offset: 0, 0
+  index: -1

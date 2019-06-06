@@ -1,0 +1,111 @@
+
+Kbaby.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 70
+  size: 208, 184
+  orig: 208, 184
+  offset: 0, 0
+  index: -1
+Body_2
+  rotate: false
+  xy: 212, 70
+  size: 208, 184
+  orig: 208, 184
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 2, 2
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+Ear
+  rotate: false
+  xy: 422, 186
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1
+Ear_white
+  rotate: false
+  xy: 209, 26
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: false
+  xy: 255, 33
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Flush
+  rotate: false
+  xy: 292, 50
+  size: 48, 18
+  orig: 48, 18
+  offset: 0, 0
+  index: -1
+Fundus_1
+  rotate: true
+  xy: 101, 20
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: true
+  xy: 422, 112
+  size: 72, 28
+  orig: 72, 28
+  offset: 0, 0
+  index: -1
+Jaw
+  rotate: false
+  xy: 2, 18
+  size: 97, 50
+  orig: 97, 50
+  offset: 0, 0
+  index: -1
+K
+  rotate: true
+  xy: 255, 2
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Mouth_1
+  rotate: true
+  xy: 422, 68
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+Mouth_3
+  rotate: true
+  xy: 452, 139
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 452, 118
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+White
+  rotate: true
+  xy: 155, 20
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+Tiger.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eye_a
+  rotate: true
+  xy: 183, 128
+  size: 103, 13
+  orig: 103, 13
+  offset: 0, 0
+  index: -1
+Eye_b
+  rotate: false
+  xy: 2, 2
+  size: 117, 46
+  orig: 117, 46
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: false
+  xy: 176, 14
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 50
+  size: 179, 181
+  orig: 179, 181
+  offset: 0, 0
+  index: -1
+L_ear
+  rotate: true
+  xy: 121, 4
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+Mouth_a
+  rotate: false
+  xy: 183, 89
+  size: 61, 34
+  orig: 61, 34
+  offset: 0, 0
+  index: -1
+Mouth_b
+  rotate: true
+  xy: 198, 170
+  size: 61, 46
+  orig: 61, 46
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 183, 53
+  size: 58, 34
+  orig: 58, 34
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: true
+  xy: 198, 125
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1

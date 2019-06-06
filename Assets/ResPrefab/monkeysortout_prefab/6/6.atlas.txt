@@ -1,0 +1,76 @@
+
+6.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 190, 152
+  size: 111, 102
+  orig: 111, 102
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 303, 172
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: true
+  xy: 62, 2
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 303, 188
+  size: 37, 66
+  orig: 37, 66
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 91
+  size: 186, 163
+  orig: 186, 163
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 190, 94
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 246, 120
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 62, 36
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 2, 2
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+White
+  rotate: false
+  xy: 2, 31
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+Swallow.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eye_a
+  rotate: true
+  xy: 172, 163
+  size: 85, 9
+  orig: 85, 9
+  offset: 0, 0
+  index: -1
+Eye_b
+  rotate: false
+  xy: 2, 52
+  size: 85, 25
+  orig: 85, 25
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 79
+  size: 168, 169
+  orig: 168, 169
+  offset: 0, 0
+  index: -1
+Mouth_a
+  rotate: false
+  xy: 2, 2
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+Mouth_b
+  rotate: false
+  xy: 183, 200
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1

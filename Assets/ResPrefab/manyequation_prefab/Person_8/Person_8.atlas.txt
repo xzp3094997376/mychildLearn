@@ -1,0 +1,90 @@
+
+Person_8.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hand
+  rotate: false
+  xy: 138, 54
+  size: 172, 72
+  orig: 172, 72
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 577, 58
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 312, 2
+  size: 61, 80
+  orig: 61, 80
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 503, 59
+  size: 72, 67
+  orig: 72, 67
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 416, 55
+  size: 71, 85
+  orig: 71, 85
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 138, 14
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 202, 28
+  size: 24, 58
+  orig: 24, 58
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 648, 67
+  size: 27, 59
+  orig: 27, 59
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 262, 22
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+handi
+  rotate: false
+  xy: 202, 2
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 4
+  size: 134, 122
+  orig: 134, 122
+  offset: 0, 0
+  index: -1
+kangkang
+  rotate: true
+  xy: 312, 65
+  size: 61, 102
+  orig: 61, 102
+  offset: 0, 0
+  index: -1

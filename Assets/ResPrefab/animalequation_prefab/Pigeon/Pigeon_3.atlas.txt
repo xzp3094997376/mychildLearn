@@ -1,0 +1,62 @@
+
+Pigeon_3.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 2
+  size: 128, 60
+  orig: 128, 60
+  offset: 0, 0
+  index: -1
+Eye_a
+  rotate: false
+  xy: 273, 28
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Eye_b
+  rotate: false
+  xy: 132, 2
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+Eye_c
+  rotate: false
+  xy: 273, 46
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+Mouth1_1
+  rotate: false
+  xy: 294, 48
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+Mouth1_2
+  rotate: false
+  xy: 309, 49
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+wing_1
+  rotate: false
+  xy: 132, 12
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+wing_2
+  rotate: false
+  xy: 205, 21
+  size: 66, 41
+  orig: 66, 41
+  offset: 0, 0
+  index: -1

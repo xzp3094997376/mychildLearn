@@ -1,0 +1,62 @@
+
+Balloon.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Balloon_1
+  rotate: false
+  xy: 98, 80
+  size: 75, 88
+  orig: 75, 88
+  offset: 0, 0
+  index: -1
+Balloon_2
+  rotate: true
+  xy: 98, 3
+  size: 75, 88
+  orig: 75, 88
+  offset: 0, 0
+  index: -1
+Balloon_3
+  rotate: true
+  xy: 7, 2
+  size: 75, 88
+  orig: 75, 88
+  offset: 0, 0
+  index: -1
+Balloon_4
+  rotate: false
+  xy: 175, 157
+  size: 75, 88
+  orig: 75, 88
+  offset: 0, 0
+  index: -1
+Balloon_5
+  rotate: false
+  xy: 7, 156
+  size: 75, 89
+  orig: 75, 89
+  offset: 0, 0
+  index: -1
+Balloon_6
+  rotate: true
+  xy: 7, 79
+  size: 75, 89
+  orig: 75, 89
+  offset: 0, 0
+  index: -1
+Balloon_7
+  rotate: true
+  xy: 84, 170
+  size: 75, 89
+  orig: 75, 89
+  offset: 0, 0
+  index: -1
+String
+  rotate: false
+  xy: 2, 10
+  size: 3, 235
+  orig: 3, 235
+  offset: 0, 0
+  index: -1

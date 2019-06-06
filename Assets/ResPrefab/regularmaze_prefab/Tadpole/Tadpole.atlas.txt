@@ -1,0 +1,48 @@
+
+Tadpole.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 7
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 102, 38
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+eyeball
+  rotate: false
+  xy: 59, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+mouth_a
+  rotate: false
+  xy: 102, 21
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+mouth_b
+  rotate: false
+  xy: 77, 6
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 59, 20
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1

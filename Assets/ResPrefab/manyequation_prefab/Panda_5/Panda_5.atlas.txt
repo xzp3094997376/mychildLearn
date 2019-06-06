@@ -1,0 +1,90 @@
+
+Panda_5.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bamboo
+  rotate: false
+  xy: 226, 63
+  size: 108, 59
+  orig: 108, 59
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: true
+  xy: 457, 90
+  size: 89, 53
+  orig: 89, 53
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 123, 8
+  size: 101, 89
+  orig: 101, 89
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 460, 194
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 399, 7
+  size: 92, 81
+  orig: 92, 81
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 190, 124
+  size: 144, 130
+  orig: 144, 130
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 336, 106
+  size: 119, 73
+  orig: 119, 73
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 2, 20
+  size: 119, 77
+  orig: 119, 77
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 336, 181
+  size: 122, 73
+  orig: 122, 73
+  offset: 0, 0
+  index: -1
+handi
+  rotate: true
+  xy: 2, 2
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 99
+  size: 186, 155
+  orig: 186, 155
+  offset: 0, 0
+  index: -1
+kangkang
+  rotate: false
+  xy: 336, 2
+  size: 61, 102
+  orig: 61, 102
+  offset: 0, 0
+  index: -1

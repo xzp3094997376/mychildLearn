@@ -1,0 +1,104 @@
+
+Person_3.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hand_a
+  rotate: true
+  xy: 444, 2
+  size: 47, 21
+  orig: 47, 21
+  offset: 0, 0
+  index: -1
+L_hand_b
+  rotate: true
+  xy: 200, 3
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 264, 54
+  size: 47, 72
+  orig: 47, 72
+  offset: 0, 0
+  index: -1
+R_hand_B
+  rotate: false
+  xy: 467, 8
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+R_hand_a
+  rotate: false
+  xy: 444, 51
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 248, 7
+  size: 33, 72
+  orig: 33, 72
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 200, 42
+  size: 62, 84
+  orig: 62, 84
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 313, 60
+  size: 66, 54
+  orig: 66, 54
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 384, 13
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 322, 10
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+handi
+  rotate: true
+  xy: 137, 6
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 12
+  size: 133, 114
+  orig: 133, 114
+  offset: 0, 0
+  index: -1
+kangkang
+  rotate: false
+  xy: 137, 24
+  size: 61, 102
+  orig: 61, 102
+  offset: 0, 0
+  index: -1
+shovel
+  rotate: true
+  xy: 369, 76
+  size: 50, 137
+  orig: 50, 137
+  offset: 0, 0
+  index: -1

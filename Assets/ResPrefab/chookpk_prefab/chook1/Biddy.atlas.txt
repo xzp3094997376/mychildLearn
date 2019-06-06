@@ -1,0 +1,76 @@
+
+Biddy.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 36
+  size: 121, 84
+  orig: 121, 84
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 374, 95
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: false
+  xy: 52, 17
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 242, 35
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+Jaw_B
+  rotate: false
+  xy: 351, 50
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+Jaw_a
+  rotate: false
+  xy: 374, 78
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 2, 2
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 308, 43
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+Wing_a
+  rotate: false
+  xy: 125, 31
+  size: 115, 89
+  orig: 115, 89
+  offset: 0, 0
+  index: -1
+Wing_b
+  rotate: false
+  xy: 308, 72
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1

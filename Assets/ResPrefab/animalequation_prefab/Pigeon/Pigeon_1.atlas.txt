@@ -1,0 +1,97 @@
+
+Pigeon_1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 63
+  size: 455, 425
+  orig: 455, 425
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 720, 261
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+Eye_b
+  rotate: false
+  xy: 90, 19
+  size: 51, 42
+  orig: 51, 42
+  offset: 0, 0
+  index: -1
+Eye_c
+  rotate: true
+  xy: 995, 442
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: false
+  xy: 459, 79
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 459, 164
+  size: 43, 87
+  orig: 43, 87
+  offset: 0, 0
+  index: -1
+Mouth1_b
+  rotate: false
+  xy: 504, 201
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+Mouth2_a
+  rotate: false
+  xy: 771, 267
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+Mouth_a
+  rotate: false
+  xy: 459, 113
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+Mouth_b
+  rotate: true
+  xy: 143, 26
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 2, 2
+  size: 59, 86
+  orig: 59, 86
+  offset: 0, 0
+  index: -1
+Wings_a
+  rotate: false
+  xy: 459, 253
+  size: 259, 235
+  orig: 259, 235
+  offset: 0, 0
+  index: -1
+Wings_b
+  rotate: false
+  xy: 720, 312
+  size: 273, 176
+  orig: 273, 176
+  offset: 0, 0
+  index: -1

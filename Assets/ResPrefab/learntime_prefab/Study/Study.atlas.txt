@@ -1,0 +1,90 @@
+
+Study.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blusher
+  rotate: false
+  xy: 29, 36
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 47
+  size: 180, 194
+  orig: 180, 194
+  offset: 0, 0
+  index: -1
+Book
+  rotate: true
+  xy: 300, 31
+  size: 106, 70
+  orig: 106, 70
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: true
+  xy: 503, 192
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+Ear
+  rotate: false
+  xy: 2, 21
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 483, 183
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Jaw
+  rotate: true
+  xy: 483, 203
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: true
+  xy: 365, 143
+  size: 98, 116
+  orig: 98, 116
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: false
+  xy: 184, 139
+  size: 179, 102
+  orig: 179, 102
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 2, 2
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 483, 172
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 184, 52
+  size: 85, 114
+  orig: 85, 114
+  offset: 0, 0
+  index: -1

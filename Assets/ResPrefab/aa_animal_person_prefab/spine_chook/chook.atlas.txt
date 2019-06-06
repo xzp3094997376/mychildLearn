@@ -1,0 +1,104 @@
+
+chook.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_leg
+  rotate: false
+  xy: 121, 2
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+Mouth_1
+  rotate: true
+  xy: 61, 24
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+Mouth_2
+  rotate: true
+  xy: 81, 2
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+Mouth_3
+  rotate: true
+  xy: 101, 2
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 140, 6
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+bai
+  rotate: false
+  xy: 213, 74
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 51
+  size: 82, 75
+  orig: 82, 75
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 2, 4
+  size: 31, 8
+  orig: 31, 8
+  offset: 0, 0
+  index: -1
+guan
+  rotate: false
+  xy: 213, 93
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+hand1_1
+  rotate: true
+  xy: 86, 29
+  size: 31, 52
+  orig: 31, 52
+  offset: 0, 0
+  index: -1
+hand1_2
+  rotate: true
+  xy: 2, 14
+  size: 35, 57
+  orig: 35, 57
+  offset: 0, 0
+  index: -1
+hand_a
+  rotate: false
+  xy: 157, 63
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 86, 62
+  size: 69, 64
+  orig: 69, 64
+  offset: 0, 0
+  index: -1
+hei
+  rotate: true
+  xy: 140, 29
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1

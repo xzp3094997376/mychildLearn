@@ -1,0 +1,83 @@
+
+pigeon.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leg
+  rotate: false
+  xy: 165, 98
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+Mouth_1
+  rotate: false
+  xy: 180, 105
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+Mouth_2
+  rotate: false
+  xy: 103, 7
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+Mouth_3
+  rotate: false
+  xy: 196, 105
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+bai
+  rotate: false
+  xy: 103, 37
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 73, 122
+  orig: 73, 122
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 103, 28
+  size: 31, 7
+  orig: 31, 7
+  offset: 0, 0
+  index: -1
+hand1_1
+  rotate: false
+  xy: 77, 5
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1
+hand1_2
+  rotate: false
+  xy: 142, 77
+  size: 21, 47
+  orig: 21, 47
+  offset: 0, 0
+  index: -1
+hand2_2
+  rotate: false
+  xy: 77, 56
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+hei
+  rotate: true
+  xy: 142, 44
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
